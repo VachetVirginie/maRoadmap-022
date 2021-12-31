@@ -1,0 +1,9 @@
+{
+  "/blog/tags/actualite": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/actualite",
+    "name": "actualité",
+    "count": 1,
+    "permalink": "/blog/tags/actualite"
+  }
+}
