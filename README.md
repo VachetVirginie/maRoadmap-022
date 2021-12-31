@@ -1,6 +1,8 @@
 # maRoadmap-022
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e046c0f1-befe-4688-9ad7-3bc1b64d7441/deploy-status)](https://app.netlify.com/sites/viviroadmap2022/deploys)
 
 *Ce site web est construit avec [Docusaurus 2](https://docusaurus.io/).*
+
 *Ce site web est basé sur le projet de [Yoan Bernabeu ](https://github.com/yoanbernabeu/).*
 
 Lancer le projet en local
