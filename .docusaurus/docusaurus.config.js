@@ -256,7 +256,7 @@ export default {
       "searchParameters": {}
     },
     "colorMode": {
-      "defaultMode": "light",
+      "defaultMode": "dark",
       "disableSwitch": false,
       "respectPrefersColorScheme": false,
       "switchConfig": {
