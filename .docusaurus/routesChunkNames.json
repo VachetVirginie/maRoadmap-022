@@ -62,7 +62,7 @@
   "/search-676": {
     "component": "component---users-vivi-dev-roadmap-node-modules-docusaurus-theme-search-algolia-src-theme-search-page-index-js-2-eb-70f"
   },
-  "/docs-be9": {
+  "/docs-76c": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -197,6 +197,10 @@
   "/docs/outils/notions-git/qu-est-ce-que-le-versionning-700": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-outils-notions-git-qu-est-ce-que-le-versionningaa-2-aec"
+  },
+  "/docs/outils/veille/sites-2f7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-outils-veille-sitesc-31-7fa"
   },
   "/docs/outils/veille/youTube-d44": {
     "component": "component---theme-doc-item-178-a40",

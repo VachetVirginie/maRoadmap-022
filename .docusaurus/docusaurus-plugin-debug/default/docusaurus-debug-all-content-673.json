@@ -38,8 +38,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Les services",
-                "permalink": "/docs/symfony-5/services"
+                "title": "Le paradigme MVC",
+                "permalink": "/docs/bases-de-symfony/paradigme-mvc"
               },
               "next": {
                 "title": "Premiers pas",
@@ -124,7 +124,7 @@
               },
               "next": {
                 "title": "Introduction",
-                "permalink": "/docs/Notions-systeme/linux/introduction"
+                "permalink": "/docs/symfony-5/introduction"
               }
             },
             {
@@ -178,7 +178,7 @@
               },
               "next": {
                 "title": "Introduction",
-                "permalink": "/docs/symfony-5/introduction"
+                "permalink": "/docs/Api-Platform/introduction"
               }
             },
             {
@@ -763,8 +763,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "La validation",
-                "permalink": "/docs/Api-Platform/validation"
+                "title": "Les services",
+                "permalink": "/docs/symfony-5/services"
               },
               "next": {
                 "title": "Les commandes de base",
@@ -907,6 +907,29 @@
               }
             },
             {
+              "unversionedId": "outils/veille/sites",
+              "id": "outils/veille/sites",
+              "isDocsHomePage": false,
+              "title": "Sites",
+              "description": "* Medium",
+              "source": "@site/docs/08-outils/02-veille/01-sites.md",
+              "sourceDirName": "08-outils/02-veille",
+              "slug": "/outils/veille/sites",
+              "permalink": "/docs/outils/veille/sites",
+              "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/08-outils/02-veille/01-sites.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "YouTube",
+                "permalink": "/docs/outils/veille/youTube"
+              }
+            },
+            {
               "unversionedId": "outils/veille/youTube",
               "id": "outils/veille/youTube",
               "isDocsHomePage": false,
@@ -927,6 +950,10 @@
               "previous": {
                 "title": "GitHub / GitLab / Framagit est différent de Git",
                 "permalink": "/docs/outils/notions-git/github-et-cie-different-de-git"
+              },
+              "next": {
+                "title": "Sites",
+                "permalink": "/docs/outils/veille/sites"
               }
             },
             {
@@ -961,7 +988,7 @@
               "id": "php/introduction",
               "isDocsHomePage": false,
               "title": "Introduction",
-              "description": "a compléter",
+              "description": "Élément d'histoire",
               "source": "@site/docs/03-php/00-introduction.md",
               "sourceDirName": "03-php",
               "slug": "/php/introduction",
@@ -1110,8 +1137,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Le paradigme MVC",
-                "permalink": "/docs/bases-de-symfony/paradigme-mvc"
+                "title": "La validation",
+                "permalink": "/docs/Api-Platform/validation"
               },
               "next": {
                 "title": "HTTP foundation",
@@ -1196,7 +1223,7 @@
               },
               "next": {
                 "title": "Introduction",
-                "permalink": "/docs/Api-Platform/introduction"
+                "permalink": "/docs/Notions-systeme/linux/introduction"
               }
             },
             {
@@ -1395,6 +1422,30 @@
               },
               {
                 "type": "category",
+                "label": "API Platform",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Api-Platform/introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Api-Platform/premiers-pas"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Api-Platform/serialisation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Api-Platform/validation"
+                  }
+                ]
+              },
+              {
+                "type": "category",
                 "label": "Symfony",
                 "collapsible": true,
                 "collapsed": true,
@@ -1430,30 +1481,6 @@
                   {
                     "type": "doc",
                     "id": "symfony-5/services"
-                  }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "API Platform",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Api-Platform/introduction"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Api-Platform/premiers-pas"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Api-Platform/serialisation"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Api-Platform/validation"
                   }
                 ]
               },
@@ -1540,6 +1567,10 @@
                       {
                         "type": "doc",
                         "id": "outils/veille/youTube"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "outils/veille/sites"
                       }
                     ]
                   }

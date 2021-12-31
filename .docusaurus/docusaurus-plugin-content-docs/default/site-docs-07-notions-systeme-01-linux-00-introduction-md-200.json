@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "La validation",
-    "permalink": "/docs/Api-Platform/validation"
+    "title": "Les services",
+    "permalink": "/docs/symfony-5/services"
   },
   "next": {
     "title": "Les commandes de base",

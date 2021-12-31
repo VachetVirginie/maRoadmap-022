@@ -75,7 +75,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','be9'),
+    component: ComponentCreator('/docs','76c'),
     routes: [
       {
         path: '/docs/Api-Platform/introduction',
@@ -272,6 +272,12 @@ export default [
       {
         path: '/docs/outils/notions-git/qu-est-ce-que-le-versionning',
         component: ComponentCreator('/docs/outils/notions-git/qu-est-ce-que-le-versionning','700'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/outils/veille/sites',
+        component: ComponentCreator('/docs/outils/veille/sites','2f7'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

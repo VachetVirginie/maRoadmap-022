@@ -176,6 +176,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "outils/veille/sites",
+              "path": "/docs/outils/veille/sites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "outils/veille/youTube",
               "path": "/docs/outils/veille/youTube",
               "sidebar": "tutorialSidebar"
