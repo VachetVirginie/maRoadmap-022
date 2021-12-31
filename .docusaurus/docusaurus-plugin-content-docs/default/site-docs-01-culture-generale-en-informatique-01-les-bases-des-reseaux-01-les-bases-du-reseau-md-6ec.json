@@ -7,7 +7,7 @@
   "source": "@site/docs/01-Culture-generale-en-informatique/01-Les-bases-des-reseaux/01-les-bases-du-reseau.md",
   "sourceDirName": "01-Culture-generale-en-informatique/01-Les-bases-des-reseaux",
   "slug": "/Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau",
-  "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau",
+  "permalink": "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau",
   "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/01-Culture-generale-en-informatique/01-Les-bases-des-reseaux/01-les-bases-du-reseau.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Un ordinateur ?",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/un-ordinateur"
+    "permalink": "/docs/Culture-generale-en-informatique/un-ordinateur"
   },
   "next": {
     "title": "TCP/IP",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/tcp-ip"
+    "permalink": "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/tcp-ip"
   }
 }

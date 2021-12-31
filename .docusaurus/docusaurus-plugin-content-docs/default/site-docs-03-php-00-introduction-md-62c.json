@@ -7,7 +7,7 @@
   "source": "@site/docs/03-php/00-introduction.md",
   "sourceDirName": "03-php",
   "slug": "/php/introduction",
-  "permalink": "/Roadmap-Dev-Symfony/docs/php/introduction",
+  "permalink": "/docs/php/introduction",
   "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/03-php/00-introduction.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Les APIs REST",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-api/api-rest"
+    "permalink": "/docs/Connaissances-de-base/bases-api/api-rest"
   },
   "next": {
     "title": "Design Patterns",
-    "permalink": "/Roadmap-Dev-Symfony/docs/php/design-patterns"
+    "permalink": "/docs/php/design-patterns"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/07-Notions-systeme/01-linux/01-les-commandes-de-base.md",
   "sourceDirName": "07-Notions-systeme/01-linux",
   "slug": "/Notions-systeme/linux/les-commandes-de-base",
-  "permalink": "/Roadmap-Dev-Symfony/docs/Notions-systeme/linux/les-commandes-de-base",
+  "permalink": "/docs/Notions-systeme/linux/les-commandes-de-base",
   "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/07-Notions-systeme/01-linux/01-les-commandes-de-base.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Notions-systeme/linux/introduction"
+    "permalink": "/docs/Notions-systeme/linux/introduction"
   },
   "next": {
     "title": "Comprendre Docker",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/le-concept"
+    "permalink": "/docs/Notions-systeme/docker/le-concept"
   }
 }

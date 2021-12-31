@@ -7,7 +7,7 @@
   "source": "@site/docs/02-Connaissances-de-base/01-bases-algorithme/01-variables-operateurs-flux-entree-et-sortie.md",
   "sourceDirName": "02-Connaissances-de-base/01-bases-algorithme",
   "slug": "/Connaissances-de-base/bases-algorithme/variables-operateurs-flux-entree-et-sortie",
-  "permalink": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-algorithme/variables-operateurs-flux-entree-et-sortie",
+  "permalink": "/docs/Connaissances-de-base/bases-algorithme/variables-operateurs-flux-entree-et-sortie",
   "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/02-Connaissances-de-base/01-bases-algorithme/01-variables-operateurs-flux-entree-et-sortie.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Livres à lire ou relire cette année",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/books"
+    "permalink": "/docs/Culture-generale-en-informatique/books"
   },
   "next": {
     "title": "Logique booléenne et structures conditionnelles",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-algorithme/logique-booleenne-et-structures-conditionnelles"
+    "permalink": "/docs/Connaissances-de-base/bases-algorithme/logique-booleenne-et-structures-conditionnelles"
   }
 }

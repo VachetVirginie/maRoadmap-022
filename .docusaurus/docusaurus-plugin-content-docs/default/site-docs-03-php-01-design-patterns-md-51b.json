@@ -7,7 +7,7 @@
   "source": "@site/docs/03-php/01-design-patterns.md",
   "sourceDirName": "03-php",
   "slug": "/php/design-patterns",
-  "permalink": "/Roadmap-Dev-Symfony/docs/php/design-patterns",
+  "permalink": "/docs/php/design-patterns",
   "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/03-php/01-design-patterns.md",
   "tags": [],
   "version": "current",
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/Roadmap-Dev-Symfony/docs/php/introduction"
+    "permalink": "/docs/php/introduction"
   },
   "next": {
     "title": "L'histoire de Symfony",
-    "permalink": "/Roadmap-Dev-Symfony/docs/bases-de-symfony/histoire-symfony"
+    "permalink": "/docs/bases-de-symfony/histoire-symfony"
   }
 }

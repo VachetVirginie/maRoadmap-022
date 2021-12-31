@@ -7,7 +7,7 @@
   "source": "@site/docs/01-Culture-generale-en-informatique/01-histoire-de-l-informatique.md",
   "sourceDirName": "01-Culture-generale-en-informatique",
   "slug": "/Culture-generale-en-informatique/histoire-de-l-informatique",
-  "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/histoire-de-l-informatique",
+  "permalink": "/docs/Culture-generale-en-informatique/histoire-de-l-informatique",
   "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/01-Culture-generale-en-informatique/01-histoire-de-l-informatique.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/introduction"
+    "permalink": "/docs/Culture-generale-en-informatique/introduction"
   },
   "next": {
     "title": "Un ordinateur ?",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/un-ordinateur"
+    "permalink": "/docs/Culture-generale-en-informatique/un-ordinateur"
   }
 }

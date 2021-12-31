@@ -11,7 +11,7 @@
       {
         "type": "link",
         "label": "Présentation de la Roadmap",
-        "href": "/Roadmap-Dev-Symfony/docs/intro"
+        "href": "/docs/intro"
       },
       {
         "type": "category",
@@ -22,17 +22,17 @@
           {
             "type": "link",
             "label": "Introduction",
-            "href": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/introduction"
+            "href": "/docs/Culture-generale-en-informatique/introduction"
           },
           {
             "type": "link",
             "label": "Histoire de l'informatique",
-            "href": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/histoire-de-l-informatique"
+            "href": "/docs/Culture-generale-en-informatique/histoire-de-l-informatique"
           },
           {
             "type": "link",
             "label": "Un ordinateur ?",
-            "href": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/un-ordinateur"
+            "href": "/docs/Culture-generale-en-informatique/un-ordinateur"
           },
           {
             "type": "category",
@@ -43,22 +43,22 @@
               {
                 "type": "link",
                 "label": "Les bases du réseau",
-                "href": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau"
+                "href": "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau"
               },
               {
                 "type": "link",
                 "label": "TCP/IP",
-                "href": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/tcp-ip"
+                "href": "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/tcp-ip"
               },
               {
                 "type": "link",
                 "label": "Les protocole DHCP et DNS",
-                "href": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/dhcp-dns"
+                "href": "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/dhcp-dns"
               },
               {
                 "type": "link",
                 "label": "Client-Serveur",
-                "href": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/client-serveur"
+                "href": "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/client-serveur"
               }
             ]
           },
@@ -71,17 +71,17 @@
               {
                 "type": "link",
                 "label": "Introduction",
-                "href": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/bases-d-internet/introduction"
+                "href": "/docs/Culture-generale-en-informatique/bases-d-internet/introduction"
               },
               {
                 "type": "link",
                 "label": "Les réseaux d'internet",
-                "href": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet"
+                "href": "/docs/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet"
               },
               {
                 "type": "link",
                 "label": "Un serveur web",
-                "href": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/bases-d-internet/un-serveur-web"
+                "href": "/docs/Culture-generale-en-informatique/bases-d-internet/un-serveur-web"
               }
             ]
           },
@@ -94,14 +94,14 @@
               {
                 "type": "link",
                 "label": "Une contre histoire de l'Internet - ARTe",
-                "href": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet"
+                "href": "/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet"
               }
             ]
           },
           {
             "type": "link",
             "label": "Livres à lire ou relire cette année",
-            "href": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/books"
+            "href": "/docs/Culture-generale-en-informatique/books"
           }
         ]
       },
@@ -120,17 +120,17 @@
               {
                 "type": "link",
                 "label": "Variables, opérateurs et flux d'entrée/sortie",
-                "href": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-algorithme/variables-operateurs-flux-entree-et-sortie"
+                "href": "/docs/Connaissances-de-base/bases-algorithme/variables-operateurs-flux-entree-et-sortie"
               },
               {
                 "type": "link",
                 "label": "Logique booléenne et structures conditionnelles",
-                "href": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-algorithme/logique-booleenne-et-structures-conditionnelles"
+                "href": "/docs/Connaissances-de-base/bases-algorithme/logique-booleenne-et-structures-conditionnelles"
               },
               {
                 "type": "link",
                 "label": "Les boucles",
-                "href": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-algorithme/les-boucles"
+                "href": "/docs/Connaissances-de-base/bases-algorithme/les-boucles"
               }
             ]
           },
@@ -143,12 +143,12 @@
               {
                 "type": "link",
                 "label": "Introduction",
-                "href": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-api/introduction"
+                "href": "/docs/Connaissances-de-base/bases-api/introduction"
               },
               {
                 "type": "link",
                 "label": "Les APIs REST",
-                "href": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-api/api-rest"
+                "href": "/docs/Connaissances-de-base/bases-api/api-rest"
               }
             ]
           }
@@ -163,12 +163,12 @@
           {
             "type": "link",
             "label": "Introduction",
-            "href": "/Roadmap-Dev-Symfony/docs/php/introduction"
+            "href": "/docs/php/introduction"
           },
           {
             "type": "link",
             "label": "Design Patterns",
-            "href": "/Roadmap-Dev-Symfony/docs/php/design-patterns"
+            "href": "/docs/php/design-patterns"
           }
         ]
       },
@@ -181,12 +181,12 @@
           {
             "type": "link",
             "label": "L'histoire de Symfony",
-            "href": "/Roadmap-Dev-Symfony/docs/bases-de-symfony/histoire-symfony"
+            "href": "/docs/bases-de-symfony/histoire-symfony"
           },
           {
             "type": "link",
             "label": "Le paradigme MVC",
-            "href": "/Roadmap-Dev-Symfony/docs/bases-de-symfony/paradigme-mvc"
+            "href": "/docs/bases-de-symfony/paradigme-mvc"
           }
         ]
       },
@@ -199,42 +199,42 @@
           {
             "type": "link",
             "label": "Introduction",
-            "href": "/Roadmap-Dev-Symfony/docs/symfony-5/introduction"
+            "href": "/docs/symfony-5/introduction"
           },
           {
             "type": "link",
             "label": "HTTP foundation",
-            "href": "/Roadmap-Dev-Symfony/docs/symfony-5/http_foundation"
+            "href": "/docs/symfony-5/http_foundation"
           },
           {
             "type": "link",
             "label": "Le routage",
-            "href": "/Roadmap-Dev-Symfony/docs/symfony-5/routage"
+            "href": "/docs/symfony-5/routage"
           },
           {
             "type": "link",
             "label": "controleurs",
-            "href": "/Roadmap-Dev-Symfony/docs/symfony-5/controleurs"
+            "href": "/docs/symfony-5/controleurs"
           },
           {
             "type": "link",
             "label": "Twig",
-            "href": "/Roadmap-Dev-Symfony/docs/symfony-5/twig"
+            "href": "/docs/symfony-5/twig"
           },
           {
             "type": "link",
             "label": "Les modèles",
-            "href": "/Roadmap-Dev-Symfony/docs/symfony-5/modeles"
+            "href": "/docs/symfony-5/modeles"
           },
           {
             "type": "link",
             "label": "Les formulaires",
-            "href": "/Roadmap-Dev-Symfony/docs/symfony-5/formulaires"
+            "href": "/docs/symfony-5/formulaires"
           },
           {
             "type": "link",
             "label": "Les services",
-            "href": "/Roadmap-Dev-Symfony/docs/symfony-5/services"
+            "href": "/docs/symfony-5/services"
           }
         ]
       },
@@ -247,22 +247,22 @@
           {
             "type": "link",
             "label": "Introduction",
-            "href": "/Roadmap-Dev-Symfony/docs/Api-Platform/introduction"
+            "href": "/docs/Api-Platform/introduction"
           },
           {
             "type": "link",
             "label": "Premiers pas",
-            "href": "/Roadmap-Dev-Symfony/docs/Api-Platform/premiers-pas"
+            "href": "/docs/Api-Platform/premiers-pas"
           },
           {
             "type": "link",
             "label": "La sérialisation",
-            "href": "/Roadmap-Dev-Symfony/docs/Api-Platform/serialisation"
+            "href": "/docs/Api-Platform/serialisation"
           },
           {
             "type": "link",
             "label": "La validation",
-            "href": "/Roadmap-Dev-Symfony/docs/Api-Platform/validation"
+            "href": "/docs/Api-Platform/validation"
           }
         ]
       },
@@ -281,12 +281,12 @@
               {
                 "type": "link",
                 "label": "Introduction",
-                "href": "/Roadmap-Dev-Symfony/docs/Notions-systeme/linux/introduction"
+                "href": "/docs/Notions-systeme/linux/introduction"
               },
               {
                 "type": "link",
                 "label": "Les commandes de base",
-                "href": "/Roadmap-Dev-Symfony/docs/Notions-systeme/linux/les-commandes-de-base"
+                "href": "/docs/Notions-systeme/linux/les-commandes-de-base"
               }
             ]
           },
@@ -299,17 +299,17 @@
               {
                 "type": "link",
                 "label": "Comprendre Docker",
-                "href": "/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/le-concept"
+                "href": "/docs/Notions-systeme/docker/le-concept"
               },
               {
                 "type": "link",
                 "label": "Passerelle de la base à la pratique sous symfony",
-                "href": "/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/passerelle-de-la-base-a-la-pratique"
+                "href": "/docs/Notions-systeme/docker/passerelle-de-la-base-a-la-pratique"
               },
               {
                 "type": "link",
                 "label": "Utilisation de docker avec Symfony",
-                "href": "/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/docker-sous-symfony"
+                "href": "/docs/Notions-systeme/docker/docker-sous-symfony"
               }
             ]
           }
@@ -330,22 +330,22 @@
               {
                 "type": "link",
                 "label": "Introduction",
-                "href": "/Roadmap-Dev-Symfony/docs/outils/notions-git/introduction"
+                "href": "/docs/outils/notions-git/introduction"
               },
               {
                 "type": "link",
                 "label": "Qu'est ce que le versionning",
-                "href": "/Roadmap-Dev-Symfony/docs/outils/notions-git/qu-est-ce-que-le-versionning"
+                "href": "/docs/outils/notions-git/qu-est-ce-que-le-versionning"
               },
               {
                 "type": "link",
                 "label": "Débuter avec git",
-                "href": "/Roadmap-Dev-Symfony/docs/outils/notions-git/debuter-avec-git"
+                "href": "/docs/outils/notions-git/debuter-avec-git"
               },
               {
                 "type": "link",
                 "label": "GitHub / GitLab / Framagit est différent de Git",
-                "href": "/Roadmap-Dev-Symfony/docs/outils/notions-git/github-et-cie-different-de-git"
+                "href": "/docs/outils/notions-git/github-et-cie-different-de-git"
               }
             ]
           }

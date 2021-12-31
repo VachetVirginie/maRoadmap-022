@@ -7,7 +7,7 @@
   "source": "@site/docs/06-Api-Platform/00-introduction.md",
   "sourceDirName": "06-Api-Platform",
   "slug": "/Api-Platform/introduction",
-  "permalink": "/Roadmap-Dev-Symfony/docs/Api-Platform/introduction",
+  "permalink": "/docs/Api-Platform/introduction",
   "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/06-Api-Platform/00-introduction.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Les services",
-    "permalink": "/Roadmap-Dev-Symfony/docs/symfony-5/services"
+    "permalink": "/docs/symfony-5/services"
   },
   "next": {
     "title": "Premiers pas",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Api-Platform/premiers-pas"
+    "permalink": "/docs/Api-Platform/premiers-pas"
   }
 }

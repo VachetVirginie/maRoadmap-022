@@ -7,7 +7,7 @@
   "source": "@site/docs/06-Api-Platform/03-validation.md",
   "sourceDirName": "06-Api-Platform",
   "slug": "/Api-Platform/validation",
-  "permalink": "/Roadmap-Dev-Symfony/docs/Api-Platform/validation",
+  "permalink": "/docs/Api-Platform/validation",
   "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/06-Api-Platform/03-validation.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "La sérialisation",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Api-Platform/serialisation"
+    "permalink": "/docs/Api-Platform/serialisation"
   },
   "next": {
     "title": "Introduction",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Notions-systeme/linux/introduction"
+    "permalink": "/docs/Notions-systeme/linux/introduction"
   }
 }

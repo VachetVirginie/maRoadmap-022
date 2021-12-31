@@ -7,7 +7,7 @@
   "source": "@site/docs/08-outils/01-notions-git/01-qu-est-ce-que-le-versionning.md",
   "sourceDirName": "08-outils/01-notions-git",
   "slug": "/outils/notions-git/qu-est-ce-que-le-versionning",
-  "permalink": "/Roadmap-Dev-Symfony/docs/outils/notions-git/qu-est-ce-que-le-versionning",
+  "permalink": "/docs/outils/notions-git/qu-est-ce-que-le-versionning",
   "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/08-outils/01-notions-git/01-qu-est-ce-que-le-versionning.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/Roadmap-Dev-Symfony/docs/outils/notions-git/introduction"
+    "permalink": "/docs/outils/notions-git/introduction"
   },
   "next": {
     "title": "Débuter avec git",
-    "permalink": "/Roadmap-Dev-Symfony/docs/outils/notions-git/debuter-avec-git"
+    "permalink": "/docs/outils/notions-git/debuter-avec-git"
   }
 }

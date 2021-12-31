@@ -7,7 +7,7 @@
   "source": "@site/docs/01-Culture-generale-en-informatique/03-docus/00-une-contre-histoire-de-linternet.md",
   "sourceDirName": "01-Culture-generale-en-informatique/03-docus",
   "slug": "/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet",
-  "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet",
+  "permalink": "/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet",
   "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/01-Culture-generale-en-informatique/03-docus/00-une-contre-histoire-de-linternet.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Un serveur web",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/bases-d-internet/un-serveur-web"
+    "permalink": "/docs/Culture-generale-en-informatique/bases-d-internet/un-serveur-web"
   },
   "next": {
     "title": "Livres à lire ou relire cette année",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/books"
+    "permalink": "/docs/Culture-generale-en-informatique/books"
   }
 }

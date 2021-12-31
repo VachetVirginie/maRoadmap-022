@@ -7,7 +7,7 @@
   "source": "@site/docs/01-Culture-generale-en-informatique/01-Les-bases-des-reseaux/02-tcp-ip.md",
   "sourceDirName": "01-Culture-generale-en-informatique/01-Les-bases-des-reseaux",
   "slug": "/Culture-generale-en-informatique/Les-bases-des-reseaux/tcp-ip",
-  "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/tcp-ip",
+  "permalink": "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/tcp-ip",
   "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/01-Culture-generale-en-informatique/01-Les-bases-des-reseaux/02-tcp-ip.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Les bases du réseau",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau"
+    "permalink": "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau"
   },
   "next": {
     "title": "Les protocole DHCP et DNS",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/dhcp-dns"
+    "permalink": "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/dhcp-dns"
   }
 }

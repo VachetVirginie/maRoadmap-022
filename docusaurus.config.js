@@ -9,7 +9,7 @@ const config = {
   title: 'Ma Roadmap 2022',
   tagline: 'Une Roadmap pour progresser en 2022 !',
   url: 'https://yoanbernabeu.github.io/',
-  baseUrl: '/Roadmap-Dev-Symfony/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

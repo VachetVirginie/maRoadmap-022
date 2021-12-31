@@ -7,7 +7,7 @@
   "source": "@site/docs/05-symfony-5/02-routage.md",
   "sourceDirName": "05-symfony-5",
   "slug": "/symfony-5/routage",
-  "permalink": "/Roadmap-Dev-Symfony/docs/symfony-5/routage",
+  "permalink": "/docs/symfony-5/routage",
   "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/05-symfony-5/02-routage.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "HTTP foundation",
-    "permalink": "/Roadmap-Dev-Symfony/docs/symfony-5/http_foundation"
+    "permalink": "/docs/symfony-5/http_foundation"
   },
   "next": {
     "title": "controleurs",
-    "permalink": "/Roadmap-Dev-Symfony/docs/symfony-5/controleurs"
+    "permalink": "/docs/symfony-5/controleurs"
   }
 }

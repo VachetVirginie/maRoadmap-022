@@ -7,7 +7,7 @@
   "source": "@site/docs/08-outils/01-notions-git/00-introduction.md",
   "sourceDirName": "08-outils/01-notions-git",
   "slug": "/outils/notions-git/introduction",
-  "permalink": "/Roadmap-Dev-Symfony/docs/outils/notions-git/introduction",
+  "permalink": "/docs/outils/notions-git/introduction",
   "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/08-outils/01-notions-git/00-introduction.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Utilisation de docker avec Symfony",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/docker-sous-symfony"
+    "permalink": "/docs/Notions-systeme/docker/docker-sous-symfony"
   },
   "next": {
     "title": "Qu'est ce que le versionning",
-    "permalink": "/Roadmap-Dev-Symfony/docs/outils/notions-git/qu-est-ce-que-le-versionning"
+    "permalink": "/docs/outils/notions-git/qu-est-ce-que-le-versionning"
   }
 }

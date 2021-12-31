@@ -7,7 +7,7 @@
   "source": "@site/docs/01-Culture-generale-en-informatique/02-bases-d-internet/00-introduction.md",
   "sourceDirName": "01-Culture-generale-en-informatique/02-bases-d-internet",
   "slug": "/Culture-generale-en-informatique/bases-d-internet/introduction",
-  "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/bases-d-internet/introduction",
+  "permalink": "/docs/Culture-generale-en-informatique/bases-d-internet/introduction",
   "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/01-Culture-generale-en-informatique/02-bases-d-internet/00-introduction.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Client-Serveur",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/client-serveur"
+    "permalink": "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/client-serveur"
   },
   "next": {
     "title": "Les réseaux d'internet",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet"
+    "permalink": "/docs/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet"
   }
 }

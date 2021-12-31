@@ -1,5 +1,5 @@
 {
-  "permalink": "/Roadmap-Dev-Symfony/blog/les-copains-et-copines",
+  "permalink": "/blog/les-copains-et-copines",
   "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/blog/2021-11-08-Hello-world.md",
   "source": "@site/blog/2021-11-08-Hello-world.md",
   "title": "Hey, les copains et copines",
@@ -9,7 +9,7 @@
   "tags": [
     {
       "label": "actualité",
-      "permalink": "/Roadmap-Dev-Symfony/blog/tags/actualite"
+      "permalink": "/blog/tags/actualite"
     }
   ],
   "readingTime": 1.135,

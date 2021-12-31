@@ -4,342 +4,342 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/Roadmap-Dev-Symfony/__docusaurus/debug',
-    component: ComponentCreator('/Roadmap-Dev-Symfony/__docusaurus/debug','3cd'),
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug','3d6'),
     exact: true
   },
   {
-    path: '/Roadmap-Dev-Symfony/__docusaurus/debug/config',
-    component: ComponentCreator('/Roadmap-Dev-Symfony/__docusaurus/debug/config','131'),
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config','914'),
     exact: true
   },
   {
-    path: '/Roadmap-Dev-Symfony/__docusaurus/debug/content',
-    component: ComponentCreator('/Roadmap-Dev-Symfony/__docusaurus/debug/content','044'),
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content','c28'),
     exact: true
   },
   {
-    path: '/Roadmap-Dev-Symfony/__docusaurus/debug/globalData',
-    component: ComponentCreator('/Roadmap-Dev-Symfony/__docusaurus/debug/globalData','022'),
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData','3cf'),
     exact: true
   },
   {
-    path: '/Roadmap-Dev-Symfony/__docusaurus/debug/metadata',
-    component: ComponentCreator('/Roadmap-Dev-Symfony/__docusaurus/debug/metadata','7ac'),
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata','31b'),
     exact: true
   },
   {
-    path: '/Roadmap-Dev-Symfony/__docusaurus/debug/registry',
-    component: ComponentCreator('/Roadmap-Dev-Symfony/__docusaurus/debug/registry','ce3'),
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry','0da'),
     exact: true
   },
   {
-    path: '/Roadmap-Dev-Symfony/__docusaurus/debug/routes',
-    component: ComponentCreator('/Roadmap-Dev-Symfony/__docusaurus/debug/routes','b53'),
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes','244'),
     exact: true
   },
   {
-    path: '/Roadmap-Dev-Symfony/blog',
-    component: ComponentCreator('/Roadmap-Dev-Symfony/blog','d8c'),
+    path: '/blog',
+    component: ComponentCreator('/blog','e19'),
     exact: true
   },
   {
-    path: '/Roadmap-Dev-Symfony/blog/archive',
-    component: ComponentCreator('/Roadmap-Dev-Symfony/blog/archive','30a'),
+    path: '/blog/archive',
+    component: ComponentCreator('/blog/archive','f4c'),
     exact: true
   },
   {
-    path: '/Roadmap-Dev-Symfony/blog/les-copains-et-copines',
-    component: ComponentCreator('/Roadmap-Dev-Symfony/blog/les-copains-et-copines','97c'),
+    path: '/blog/les-copains-et-copines',
+    component: ComponentCreator('/blog/les-copains-et-copines','ed8'),
     exact: true
   },
   {
-    path: '/Roadmap-Dev-Symfony/blog/tags',
-    component: ComponentCreator('/Roadmap-Dev-Symfony/blog/tags','6d6'),
+    path: '/blog/tags',
+    component: ComponentCreator('/blog/tags','e13'),
     exact: true
   },
   {
-    path: '/Roadmap-Dev-Symfony/blog/tags/actualite',
-    component: ComponentCreator('/Roadmap-Dev-Symfony/blog/tags/actualite','d20'),
+    path: '/blog/tags/actualite',
+    component: ComponentCreator('/blog/tags/actualite','e09'),
     exact: true
   },
   {
-    path: '/Roadmap-Dev-Symfony/markdown-page',
-    component: ComponentCreator('/Roadmap-Dev-Symfony/markdown-page','743'),
+    path: '/markdown-page',
+    component: ComponentCreator('/markdown-page','be1'),
     exact: true
   },
   {
-    path: '/Roadmap-Dev-Symfony/search',
-    component: ComponentCreator('/Roadmap-Dev-Symfony/search','524'),
+    path: '/search',
+    component: ComponentCreator('/search','676'),
     exact: true
   },
   {
-    path: '/Roadmap-Dev-Symfony/docs',
-    component: ComponentCreator('/Roadmap-Dev-Symfony/docs','578'),
+    path: '/docs',
+    component: ComponentCreator('/docs','32b'),
     routes: [
       {
-        path: '/Roadmap-Dev-Symfony/docs/Api-Platform/introduction',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Api-Platform/introduction','1aa'),
+        path: '/docs/Api-Platform/introduction',
+        component: ComponentCreator('/docs/Api-Platform/introduction','b18'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Api-Platform/premiers-pas',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Api-Platform/premiers-pas','5cf'),
+        path: '/docs/Api-Platform/premiers-pas',
+        component: ComponentCreator('/docs/Api-Platform/premiers-pas','9d5'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Api-Platform/serialisation',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Api-Platform/serialisation','2c5'),
+        path: '/docs/Api-Platform/serialisation',
+        component: ComponentCreator('/docs/Api-Platform/serialisation','3dd'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Api-Platform/validation',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Api-Platform/validation','cff'),
+        path: '/docs/Api-Platform/validation',
+        component: ComponentCreator('/docs/Api-Platform/validation','9b3'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/bases-de-symfony/histoire-symfony',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/bases-de-symfony/histoire-symfony','232'),
+        path: '/docs/bases-de-symfony/histoire-symfony',
+        component: ComponentCreator('/docs/bases-de-symfony/histoire-symfony','95e'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/bases-de-symfony/paradigme-mvc',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/bases-de-symfony/paradigme-mvc','64b'),
+        path: '/docs/bases-de-symfony/paradigme-mvc',
+        component: ComponentCreator('/docs/bases-de-symfony/paradigme-mvc','2e8'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-algorithme/les-boucles',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-algorithme/les-boucles','381'),
+        path: '/docs/Connaissances-de-base/bases-algorithme/les-boucles',
+        component: ComponentCreator('/docs/Connaissances-de-base/bases-algorithme/les-boucles','684'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-algorithme/logique-booleenne-et-structures-conditionnelles',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-algorithme/logique-booleenne-et-structures-conditionnelles','d63'),
+        path: '/docs/Connaissances-de-base/bases-algorithme/logique-booleenne-et-structures-conditionnelles',
+        component: ComponentCreator('/docs/Connaissances-de-base/bases-algorithme/logique-booleenne-et-structures-conditionnelles','808'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-algorithme/variables-operateurs-flux-entree-et-sortie',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-algorithme/variables-operateurs-flux-entree-et-sortie','d2a'),
+        path: '/docs/Connaissances-de-base/bases-algorithme/variables-operateurs-flux-entree-et-sortie',
+        component: ComponentCreator('/docs/Connaissances-de-base/bases-algorithme/variables-operateurs-flux-entree-et-sortie','bdc'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-api/api-rest',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-api/api-rest','f93'),
+        path: '/docs/Connaissances-de-base/bases-api/api-rest',
+        component: ComponentCreator('/docs/Connaissances-de-base/bases-api/api-rest','9a9'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-api/introduction',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-api/introduction','2bf'),
+        path: '/docs/Connaissances-de-base/bases-api/introduction',
+        component: ComponentCreator('/docs/Connaissances-de-base/bases-api/introduction','f5a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/bases-d-internet/introduction',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/bases-d-internet/introduction','b31'),
+        path: '/docs/Culture-generale-en-informatique/bases-d-internet/introduction',
+        component: ComponentCreator('/docs/Culture-generale-en-informatique/bases-d-internet/introduction','a6b'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet','961'),
+        path: '/docs/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet',
+        component: ComponentCreator('/docs/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet','92b'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/bases-d-internet/un-serveur-web',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/bases-d-internet/un-serveur-web','45d'),
+        path: '/docs/Culture-generale-en-informatique/bases-d-internet/un-serveur-web',
+        component: ComponentCreator('/docs/Culture-generale-en-informatique/bases-d-internet/un-serveur-web','d5e'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/books',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/books','66b'),
+        path: '/docs/Culture-generale-en-informatique/books',
+        component: ComponentCreator('/docs/Culture-generale-en-informatique/books','ac4'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet','92d'),
+        path: '/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet',
+        component: ComponentCreator('/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet','dea'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/histoire-de-l-informatique',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/histoire-de-l-informatique','942'),
+        path: '/docs/Culture-generale-en-informatique/histoire-de-l-informatique',
+        component: ComponentCreator('/docs/Culture-generale-en-informatique/histoire-de-l-informatique','86d'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/introduction',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/introduction','2fd'),
+        path: '/docs/Culture-generale-en-informatique/introduction',
+        component: ComponentCreator('/docs/Culture-generale-en-informatique/introduction','33f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/client-serveur',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/client-serveur','31d'),
+        path: '/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/client-serveur',
+        component: ComponentCreator('/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/client-serveur','b16'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/dhcp-dns',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/dhcp-dns','62d'),
+        path: '/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/dhcp-dns',
+        component: ComponentCreator('/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/dhcp-dns','125'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau','66b'),
+        path: '/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau',
+        component: ComponentCreator('/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau','33b'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/tcp-ip',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/tcp-ip','6a5'),
+        path: '/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/tcp-ip',
+        component: ComponentCreator('/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/tcp-ip','05e'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/un-ordinateur',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/un-ordinateur','ada'),
+        path: '/docs/Culture-generale-en-informatique/un-ordinateur',
+        component: ComponentCreator('/docs/Culture-generale-en-informatique/un-ordinateur','3e4'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/intro',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/intro','200'),
+        path: '/docs/intro',
+        component: ComponentCreator('/docs/intro','aed'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/docker-sous-symfony',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/docker-sous-symfony','fa1'),
+        path: '/docs/Notions-systeme/docker/docker-sous-symfony',
+        component: ComponentCreator('/docs/Notions-systeme/docker/docker-sous-symfony','57b'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/le-concept',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/le-concept','992'),
+        path: '/docs/Notions-systeme/docker/le-concept',
+        component: ComponentCreator('/docs/Notions-systeme/docker/le-concept','639'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/passerelle-de-la-base-a-la-pratique',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/passerelle-de-la-base-a-la-pratique','8ee'),
+        path: '/docs/Notions-systeme/docker/passerelle-de-la-base-a-la-pratique',
+        component: ComponentCreator('/docs/Notions-systeme/docker/passerelle-de-la-base-a-la-pratique','916'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Notions-systeme/linux/introduction',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Notions-systeme/linux/introduction','8ec'),
+        path: '/docs/Notions-systeme/linux/introduction',
+        component: ComponentCreator('/docs/Notions-systeme/linux/introduction','4d3'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/Notions-systeme/linux/les-commandes-de-base',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/Notions-systeme/linux/les-commandes-de-base','771'),
+        path: '/docs/Notions-systeme/linux/les-commandes-de-base',
+        component: ComponentCreator('/docs/Notions-systeme/linux/les-commandes-de-base','f8c'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/outils/notions-git/debuter-avec-git',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/outils/notions-git/debuter-avec-git','787'),
+        path: '/docs/outils/notions-git/debuter-avec-git',
+        component: ComponentCreator('/docs/outils/notions-git/debuter-avec-git','bfe'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/outils/notions-git/github-et-cie-different-de-git',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/outils/notions-git/github-et-cie-different-de-git','95c'),
+        path: '/docs/outils/notions-git/github-et-cie-different-de-git',
+        component: ComponentCreator('/docs/outils/notions-git/github-et-cie-different-de-git','388'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/outils/notions-git/introduction',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/outils/notions-git/introduction','7ad'),
+        path: '/docs/outils/notions-git/introduction',
+        component: ComponentCreator('/docs/outils/notions-git/introduction','622'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/outils/notions-git/qu-est-ce-que-le-versionning',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/outils/notions-git/qu-est-ce-que-le-versionning','917'),
+        path: '/docs/outils/notions-git/qu-est-ce-que-le-versionning',
+        component: ComponentCreator('/docs/outils/notions-git/qu-est-ce-que-le-versionning','700'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/php/design-patterns',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/php/design-patterns','7a9'),
+        path: '/docs/php/design-patterns',
+        component: ComponentCreator('/docs/php/design-patterns','c33'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/php/introduction',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/php/introduction','80e'),
+        path: '/docs/php/introduction',
+        component: ComponentCreator('/docs/php/introduction','39e'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/symfony-5/controleurs',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/symfony-5/controleurs','b87'),
+        path: '/docs/symfony-5/controleurs',
+        component: ComponentCreator('/docs/symfony-5/controleurs','530'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/symfony-5/formulaires',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/symfony-5/formulaires','43d'),
+        path: '/docs/symfony-5/formulaires',
+        component: ComponentCreator('/docs/symfony-5/formulaires','30a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/symfony-5/http_foundation',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/symfony-5/http_foundation','abc'),
+        path: '/docs/symfony-5/http_foundation',
+        component: ComponentCreator('/docs/symfony-5/http_foundation','e20'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/symfony-5/introduction',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/symfony-5/introduction','471'),
+        path: '/docs/symfony-5/introduction',
+        component: ComponentCreator('/docs/symfony-5/introduction','843'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/symfony-5/modeles',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/symfony-5/modeles','c4c'),
+        path: '/docs/symfony-5/modeles',
+        component: ComponentCreator('/docs/symfony-5/modeles','e27'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/symfony-5/routage',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/symfony-5/routage','d91'),
+        path: '/docs/symfony-5/routage',
+        component: ComponentCreator('/docs/symfony-5/routage','3ed'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/symfony-5/services',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/symfony-5/services','367'),
+        path: '/docs/symfony-5/services',
+        component: ComponentCreator('/docs/symfony-5/services','d92'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Roadmap-Dev-Symfony/docs/symfony-5/twig',
-        component: ComponentCreator('/Roadmap-Dev-Symfony/docs/symfony-5/twig','23e'),
+        path: '/docs/symfony-5/twig',
+        component: ComponentCreator('/docs/symfony-5/twig','1a0'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/Roadmap-Dev-Symfony/',
-    component: ComponentCreator('/Roadmap-Dev-Symfony/','12f'),
+    path: '/',
+    component: ComponentCreator('/','deb'),
     exact: true
   },
   {
