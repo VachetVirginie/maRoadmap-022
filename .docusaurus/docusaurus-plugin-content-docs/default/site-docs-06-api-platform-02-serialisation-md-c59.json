@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Api-Platform/serialisation",
+  "id": "Api-Platform/serialisation",
+  "isDocsHomePage": false,
+  "title": "La sérialisation",
+  "description": "---------------",
+  "source": "@site/docs/06-Api-Platform/02-serialisation.md",
+  "sourceDirName": "06-Api-Platform",
+  "slug": "/Api-Platform/serialisation",
+  "permalink": "/Roadmap-Dev-Symfony/docs/Api-Platform/serialisation",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/06-Api-Platform/02-serialisation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Premiers pas",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Api-Platform/premiers-pas"
+  },
+  "next": {
+    "title": "La validation",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Api-Platform/validation"
+  }
+}

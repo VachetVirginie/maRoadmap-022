@@ -1,0 +1,26 @@
+{
+  "permalink": "/Roadmap-Dev-Symfony/blog/les-copains-et-copines",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/blog/2021-11-08-Hello-world.md",
+  "source": "@site/blog/2021-11-08-Hello-world.md",
+  "title": "Hey, les copains et copines",
+  "description": "L'article ci-dessous est à l'origine un fil Twitter. Pour le rendre cohérent, il a été très légèrement modifié.",
+  "date": "2021-11-08T00:00:00.000Z",
+  "formattedDate": "November 8, 2021",
+  "tags": [
+    {
+      "label": "actualité",
+      "permalink": "/Roadmap-Dev-Symfony/blog/tags/actualite"
+    }
+  ],
+  "readingTime": 1.135,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Yoan Bernabeu",
+      "title": "Mainteneur de la Roadmap Dev Symfony",
+      "url": "https://github.com/yoanbernabeu",
+      "imageURL": "https://github.com/yoanbernabeu.png",
+      "key": "yoandev"
+    }
+  ]
+}

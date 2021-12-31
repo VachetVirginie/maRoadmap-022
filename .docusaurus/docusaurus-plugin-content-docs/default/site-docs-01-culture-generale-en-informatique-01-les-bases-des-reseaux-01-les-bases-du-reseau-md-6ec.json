@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau",
+  "id": "Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau",
+  "isDocsHomePage": false,
+  "title": "Les bases du réseau",
+  "description": "Que serait notre monde sans les réseaux ? Il serait probablement totalement différent !",
+  "source": "@site/docs/01-Culture-generale-en-informatique/01-Les-bases-des-reseaux/01-les-bases-du-reseau.md",
+  "sourceDirName": "01-Culture-generale-en-informatique/01-Les-bases-des-reseaux",
+  "slug": "/Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau",
+  "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/01-Culture-generale-en-informatique/01-Les-bases-des-reseaux/01-les-bases-du-reseau.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Un ordinateur ?",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/un-ordinateur"
+  },
+  "next": {
+    "title": "TCP/IP",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/tcp-ip"
+  }
+}

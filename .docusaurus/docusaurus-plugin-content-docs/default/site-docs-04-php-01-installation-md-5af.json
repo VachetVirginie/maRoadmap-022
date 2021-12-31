@@ -1,0 +1,25 @@
+{
+  "unversionedId": "php/Installation",
+  "id": "php/Installation",
+  "isDocsHomePage": false,
+  "title": "Installation PHP",
+  "description": "Choix de plateforme :",
+  "source": "@site/docs/04-php/01-Installation.md",
+  "sourceDirName": "04-php",
+  "slug": "/php/Installation",
+  "permalink": "/Roadmap-Dev-Symfony/docs/php/Installation",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/04-php/01-Installation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/Roadmap-Dev-Symfony/docs/php/introduction"
+  },
+  "next": {
+    "title": "le langage php",
+    "permalink": "/Roadmap-Dev-Symfony/docs/php/xx-langage-php"
+  }
+}

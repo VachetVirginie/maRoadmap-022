@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Notions-systeme/docker/docker-sous-symfony",
+  "id": "Notions-systeme/docker/docker-sous-symfony",
+  "isDocsHomePage": false,
+  "title": "Utilisation de docker avec Symfony",
+  "description": "Forcément, c'est la vidéo du boss yoanDev qu'il vous faut.",
+  "source": "@site/docs/06-Notions-systeme/02-docker/02-docker-sous-symfony.md",
+  "sourceDirName": "06-Notions-systeme/02-docker",
+  "slug": "/Notions-systeme/docker/docker-sous-symfony",
+  "permalink": "/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/docker-sous-symfony",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/06-Notions-systeme/02-docker/02-docker-sous-symfony.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Passerelle de la base à la pratique sous symfony",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/passerelle-de-la-base-a-la-pratique"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/Roadmap-Dev-Symfony/docs/outils/notions-git/introduction"
+  }
+}

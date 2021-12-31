@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Culture-generale-en-informatique/introduction",
+  "id": "Culture-generale-en-informatique/introduction",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "Avant d'envisager d'étudier un langage de programmation ou de mettre les doigts dans le code, il nous semble important de prendre le temps d'étudier quelques bases préalables.",
+  "source": "@site/docs/01-Culture-generale-en-informatique/00-introduction.md",
+  "sourceDirName": "01-Culture-generale-en-informatique",
+  "slug": "/Culture-generale-en-informatique/introduction",
+  "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/introduction",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/01-Culture-generale-en-informatique/00-introduction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Présentation de la Roadmap",
+    "permalink": "/Roadmap-Dev-Symfony/docs/intro"
+  },
+  "next": {
+    "title": "Histoire de l'informatique",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/histoire-de-l-informatique"
+  }
+}

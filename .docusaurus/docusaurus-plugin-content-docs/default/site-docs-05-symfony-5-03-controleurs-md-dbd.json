@@ -1,0 +1,27 @@
+{
+  "unversionedId": "symfony-5/controleurs",
+  "id": "symfony-5/controleurs",
+  "isDocsHomePage": false,
+  "title": "controleurs",
+  "description": "Revisions Framework Symfony : de 0 à pro  section 4.",
+  "source": "@site/docs/05-symfony-5/03-controleurs.md",
+  "sourceDirName": "05-symfony-5",
+  "slug": "/symfony-5/controleurs",
+  "permalink": "/Roadmap-Dev-Symfony/docs/symfony-5/controleurs",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/05-symfony-5/03-controleurs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Le routage",
+    "permalink": "/Roadmap-Dev-Symfony/docs/symfony-5/routage"
+  },
+  "next": {
+    "title": "Twig",
+    "permalink": "/Roadmap-Dev-Symfony/docs/symfony-5/twig"
+  }
+}

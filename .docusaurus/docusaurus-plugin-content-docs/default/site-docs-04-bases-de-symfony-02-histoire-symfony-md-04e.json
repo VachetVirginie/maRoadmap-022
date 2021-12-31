@@ -1,0 +1,27 @@
+{
+  "unversionedId": "bases-de-symfony/histoire-symfony",
+  "id": "bases-de-symfony/histoire-symfony",
+  "isDocsHomePage": false,
+  "title": "L'histoire de Symfony",
+  "description": "---------------",
+  "source": "@site/docs/04-bases-de-symfony/02-histoire-symfony.md",
+  "sourceDirName": "04-bases-de-symfony",
+  "slug": "/bases-de-symfony/histoire-symfony",
+  "permalink": "/Roadmap-Dev-Symfony/docs/bases-de-symfony/histoire-symfony",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/04-bases-de-symfony/02-histoire-symfony.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Design Patterns",
+    "permalink": "/Roadmap-Dev-Symfony/docs/php/design-patterns"
+  },
+  "next": {
+    "title": "Le paradigme MVC",
+    "permalink": "/Roadmap-Dev-Symfony/docs/bases-de-symfony/paradigme-mvc"
+  }
+}

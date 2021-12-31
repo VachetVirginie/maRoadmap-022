@@ -1,0 +1,27 @@
+{
+  "unversionedId": "outils/notions-git/introduction",
+  "id": "outils/notions-git/introduction",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "Git est un logiciel qui permet de versionner son projet informatique. Il est tout à fait possible de l'utiliser aussi bien pour des langages de programmations web, comme pour tout autre de langage.",
+  "source": "@site/docs/07-outils/01-notions-git/00-introduction.md",
+  "sourceDirName": "07-outils/01-notions-git",
+  "slug": "/outils/notions-git/introduction",
+  "permalink": "/Roadmap-Dev-Symfony/docs/outils/notions-git/introduction",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/07-outils/01-notions-git/00-introduction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Utilisation de docker avec Symfony",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/docker-sous-symfony"
+  },
+  "next": {
+    "title": "Qu'est ce que le versionning",
+    "permalink": "/Roadmap-Dev-Symfony/docs/outils/notions-git/qu-est-ce-que-le-versionning"
+  }
+}

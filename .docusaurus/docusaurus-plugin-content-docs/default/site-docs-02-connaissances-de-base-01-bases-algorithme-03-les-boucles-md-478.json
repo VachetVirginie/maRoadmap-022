@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Connaissances-de-base/bases-algorithme/les-boucles",
+  "id": "Connaissances-de-base/bases-algorithme/les-boucles",
+  "isDocsHomePage": false,
+  "title": "Les boucles",
+  "description": "Les premiers 90% du code prennent les premiers 90% du temps de développement. Les 10% restants prennent les autres 90% du temps de développement.",
+  "source": "@site/docs/02-Connaissances-de-base/01-bases-algorithme/03-les-boucles.md",
+  "sourceDirName": "02-Connaissances-de-base/01-bases-algorithme",
+  "slug": "/Connaissances-de-base/bases-algorithme/les-boucles",
+  "permalink": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-algorithme/les-boucles",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/02-Connaissances-de-base/01-bases-algorithme/03-les-boucles.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Logique booléenne et structures conditionnelles",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-algorithme/logique-booleenne-et-structures-conditionnelles"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-api/introduction"
+  }
+}

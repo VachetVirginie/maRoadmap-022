@@ -1,0 +1,27 @@
+{
+  "unversionedId": "bases-de-symfony/les-versions-de-symfony",
+  "id": "bases-de-symfony/les-versions-de-symfony",
+  "isDocsHomePage": false,
+  "title": "L'histoire de Symfony",
+  "description": "---------------",
+  "source": "@site/docs/05-bases-de-symfony/02-les-versions-de-symfony.md",
+  "sourceDirName": "05-bases-de-symfony",
+  "slug": "/bases-de-symfony/les-versions-de-symfony",
+  "permalink": "/Roadmap-Dev-Symfony/docs/bases-de-symfony/les-versions-de-symfony",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/05-bases-de-symfony/02-les-versions-de-symfony.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "le langage php",
+    "permalink": "/Roadmap-Dev-Symfony/docs/php/xx-langage-php"
+  },
+  "next": {
+    "title": "Le paradigme MVC",
+    "permalink": "/Roadmap-Dev-Symfony/docs/bases-de-symfony/paradigme-mvc"
+  }
+}

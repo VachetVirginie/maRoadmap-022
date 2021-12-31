@@ -1,0 +1,27 @@
+{
+  "unversionedId": "outils/notions-git/debuter-avec-git",
+  "id": "outils/notions-git/debuter-avec-git",
+  "isDocsHomePage": false,
+  "title": "Débuter avec git",
+  "description": "Introduction",
+  "source": "@site/docs/08-outils/01-notions-git/02-debuter-avec-git.md",
+  "sourceDirName": "08-outils/01-notions-git",
+  "slug": "/outils/notions-git/debuter-avec-git",
+  "permalink": "/Roadmap-Dev-Symfony/docs/outils/notions-git/debuter-avec-git",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/08-outils/01-notions-git/02-debuter-avec-git.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Qu'est ce que le versionning",
+    "permalink": "/Roadmap-Dev-Symfony/docs/outils/notions-git/qu-est-ce-que-le-versionning"
+  },
+  "next": {
+    "title": "GitHub / GitLab / Framagit est différent de Git",
+    "permalink": "/Roadmap-Dev-Symfony/docs/outils/notions-git/github-et-cie-different-de-git"
+  }
+}

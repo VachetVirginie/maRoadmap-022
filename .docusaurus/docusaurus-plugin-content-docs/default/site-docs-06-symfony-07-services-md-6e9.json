@@ -1,0 +1,27 @@
+{
+  "unversionedId": "symfony/services",
+  "id": "symfony/services",
+  "isDocsHomePage": false,
+  "title": "Les services",
+  "description": "A écrire",
+  "source": "@site/docs/06-symfony/07-services.md",
+  "sourceDirName": "06-symfony",
+  "slug": "/symfony/services",
+  "permalink": "/Roadmap-Dev-Symfony/docs/symfony/services",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/06-symfony/07-services.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Les formulaires",
+    "permalink": "/Roadmap-Dev-Symfony/docs/symfony/formulaires"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Notions-systeme/linux/introduction"
+  }
+}

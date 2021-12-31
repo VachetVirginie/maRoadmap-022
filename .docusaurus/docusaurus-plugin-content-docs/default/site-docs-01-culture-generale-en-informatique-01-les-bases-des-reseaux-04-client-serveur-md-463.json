@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Culture-generale-en-informatique/Les-bases-des-reseaux/client-serveur",
+  "id": "Culture-generale-en-informatique/Les-bases-des-reseaux/client-serveur",
+  "isDocsHomePage": false,
+  "title": "Client-Serveur",
+  "description": "Le protocole ou environnement client–serveur désigne un mode de transaction (souvent à travers un réseau) entre plusieurs programmes ou processus : l'un, qualifié de client, envoie des requêtes ; l'autre, qualifié de serveur, attend les requêtes des clients et y répond.",
+  "source": "@site/docs/01-Culture-generale-en-informatique/01-Les-bases-des-reseaux/04-client-serveur.md",
+  "sourceDirName": "01-Culture-generale-en-informatique/01-Les-bases-des-reseaux",
+  "slug": "/Culture-generale-en-informatique/Les-bases-des-reseaux/client-serveur",
+  "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/client-serveur",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/01-Culture-generale-en-informatique/01-Les-bases-des-reseaux/04-client-serveur.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Les protocole DHCP et DNS",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/dhcp-dns"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/bases-d-internet/introduction"
+  }
+}

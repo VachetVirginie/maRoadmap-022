@@ -1,0 +1,27 @@
+{
+  "unversionedId": "html-et-css/css",
+  "id": "html-et-css/css",
+  "isDocsHomePage": false,
+  "title": "Feuilles de style en cascade",
+  "description": "Les Cascading Style Sheets (CSS) forment un langage informatique qui décrit la présentation des documents HTML et XML. Introduit au milieu des années 1990, le CSS devient couramment utilisé dans la conception de sites web.",
+  "source": "@site/docs/03-html-et-css/02-css.md",
+  "sourceDirName": "03-html-et-css",
+  "slug": "/html-et-css/css",
+  "permalink": "/Roadmap-Dev-Symfony/docs/html-et-css/css",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/03-html-et-css/02-css.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HTML HyperText Markup Language",
+    "permalink": "/Roadmap-Dev-Symfony/docs/html-et-css/html"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/Roadmap-Dev-Symfony/docs/php/introduction"
+  }
+}

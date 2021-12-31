@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Notions-systeme/linux/introduction",
+  "id": "Notions-systeme/linux/introduction",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "---------------",
+  "source": "@site/docs/07-Notions-systeme/01-linux/00-introduction.md",
+  "sourceDirName": "07-Notions-systeme/01-linux",
+  "slug": "/Notions-systeme/linux/introduction",
+  "permalink": "/Roadmap-Dev-Symfony/docs/Notions-systeme/linux/introduction",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/07-Notions-systeme/01-linux/00-introduction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "La validation",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Api-Platform/validation"
+  },
+  "next": {
+    "title": "Les commandes de base",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Notions-systeme/linux/les-commandes-de-base"
+  }
+}

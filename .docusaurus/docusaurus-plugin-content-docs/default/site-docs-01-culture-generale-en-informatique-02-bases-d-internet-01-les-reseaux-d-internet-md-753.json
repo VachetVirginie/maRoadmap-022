@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet",
+  "id": "Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet",
+  "isDocsHomePage": false,
+  "title": "Les réseaux d'internet",
+  "description": "Internet c'est un réseau, ou plutôt ce sont DES réseaux.",
+  "source": "@site/docs/01-Culture-generale-en-informatique/02-bases-d-internet/01-les-reseaux-d-internet.md",
+  "sourceDirName": "01-Culture-generale-en-informatique/02-bases-d-internet",
+  "slug": "/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet",
+  "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/01-Culture-generale-en-informatique/02-bases-d-internet/01-les-reseaux-d-internet.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/bases-d-internet/introduction"
+  },
+  "next": {
+    "title": "Un serveur web",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/bases-d-internet/un-serveur-web"
+  }
+}

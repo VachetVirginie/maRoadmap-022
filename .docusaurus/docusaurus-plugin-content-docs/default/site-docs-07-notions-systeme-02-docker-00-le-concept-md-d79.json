@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Notions-systeme/docker/le-concept",
+  "id": "Notions-systeme/docker/le-concept",
+  "isDocsHomePage": false,
+  "title": "Comprendre Docker",
+  "description": "1. Pourquoi Docker ?",
+  "source": "@site/docs/07-Notions-systeme/02-docker/00-le-concept.md",
+  "sourceDirName": "07-Notions-systeme/02-docker",
+  "slug": "/Notions-systeme/docker/le-concept",
+  "permalink": "/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/le-concept",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/07-Notions-systeme/02-docker/00-le-concept.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Les commandes de base",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Notions-systeme/linux/les-commandes-de-base"
+  },
+  "next": {
+    "title": "Passerelle de la base à la pratique sous symfony",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/passerelle-de-la-base-a-la-pratique"
+  }
+}

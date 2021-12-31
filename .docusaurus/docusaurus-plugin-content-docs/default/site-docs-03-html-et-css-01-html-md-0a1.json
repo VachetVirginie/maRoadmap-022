@@ -1,0 +1,27 @@
+{
+  "unversionedId": "html-et-css/html",
+  "id": "html-et-css/html",
+  "isDocsHomePage": false,
+  "title": "HTML HyperText Markup Language",
+  "description": "Le HTML créé en 1993, est le langage de balisage conçu pour représenter les pages web. Ce langage permet d'écrire de l'hypertexte, de structurer sémentiquement la page web, mettre en forme le contenu de la page, de créer des formulaires de saisie, d'inclure des ressources multimédias (images, vidéos, programmes informatiques) et de créer des documents interopérables avec des équipements très variés de manière conforme aux exigences de l'accessibilité du web (WAI).Le HTML est souvent utilisé conjointement avec le langage de programmation JavaScript et des feuilles de style en cascade (CSS).",
+  "source": "@site/docs/03-html-et-css/01-html.md",
+  "sourceDirName": "03-html-et-css",
+  "slug": "/html-et-css/html",
+  "permalink": "/Roadmap-Dev-Symfony/docs/html-et-css/html",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/03-html-et-css/01-html.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Les APIs REST",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-api/api-rest"
+  },
+  "next": {
+    "title": "Feuilles de style en cascade",
+    "permalink": "/Roadmap-Dev-Symfony/docs/html-et-css/css"
+  }
+}

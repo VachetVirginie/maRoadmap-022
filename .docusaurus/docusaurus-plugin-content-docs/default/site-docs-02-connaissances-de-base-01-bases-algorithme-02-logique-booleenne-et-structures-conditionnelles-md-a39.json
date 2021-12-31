@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Connaissances-de-base/bases-algorithme/logique-booleenne-et-structures-conditionnelles",
+  "id": "Connaissances-de-base/bases-algorithme/logique-booleenne-et-structures-conditionnelles",
+  "isDocsHomePage": false,
+  "title": "Logique booléenne et structures conditionnelles",
+  "description": "Ce qui rend la logique possible, c'est l'existence en nos esprits de notions générales, notre faculté de concevoir une classe et de",
+  "source": "@site/docs/02-Connaissances-de-base/01-bases-algorithme/02-logique-booleenne-et-structures-conditionnelles.md",
+  "sourceDirName": "02-Connaissances-de-base/01-bases-algorithme",
+  "slug": "/Connaissances-de-base/bases-algorithme/logique-booleenne-et-structures-conditionnelles",
+  "permalink": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-algorithme/logique-booleenne-et-structures-conditionnelles",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/02-Connaissances-de-base/01-bases-algorithme/02-logique-booleenne-et-structures-conditionnelles.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Variables, opérateurs et flux d'entrée/sortie",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-algorithme/variables-operateurs-flux-entree-et-sortie"
+  },
+  "next": {
+    "title": "Les boucles",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-algorithme/les-boucles"
+  }
+}

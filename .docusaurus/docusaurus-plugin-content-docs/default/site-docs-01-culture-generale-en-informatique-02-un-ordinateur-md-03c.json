@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Culture-generale-en-informatique/un-ordinateur",
+  "id": "Culture-generale-en-informatique/un-ordinateur",
+  "isDocsHomePage": false,
+  "title": "Un ordinateur ?",
+  "description": "Au cœur de notre utilisation de l'informatique, il trône sur nos bureaux, il est notre outil de travail, l'ordinateur est un élément important de notre quotidien, et encore plus dans notre quotidien de dev !",
+  "source": "@site/docs/01-Culture-generale-en-informatique/02-un-ordinateur.md",
+  "sourceDirName": "01-Culture-generale-en-informatique",
+  "slug": "/Culture-generale-en-informatique/un-ordinateur",
+  "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/un-ordinateur",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/01-Culture-generale-en-informatique/02-un-ordinateur.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Histoire de l'informatique",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/histoire-de-l-informatique"
+  },
+  "next": {
+    "title": "Les bases du réseau",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Connaissances-de-base/bases-api/api-rest",
+  "id": "Connaissances-de-base/bases-api/api-rest",
+  "isDocsHomePage": false,
+  "title": "Les APIs REST",
+  "description": "Une API REST (également appelée API RESTful) est une interface de programmation d'application (API ou API web) qui respecte les contraintes du style d'architecture REST et permet d'interagir avec les services web RESTful.",
+  "source": "@site/docs/02-Connaissances-de-base/03-bases-api/01-api-rest.md",
+  "sourceDirName": "02-Connaissances-de-base/03-bases-api",
+  "slug": "/Connaissances-de-base/bases-api/api-rest",
+  "permalink": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-api/api-rest",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/02-Connaissances-de-base/03-bases-api/01-api-rest.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-api/introduction"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/Roadmap-Dev-Symfony/docs/php/introduction"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "symfony/twig",
+  "id": "symfony/twig",
+  "isDocsHomePage": false,
+  "title": "Twig",
+  "description": "A écrire",
+  "source": "@site/docs/06-symfony/04-twig.md",
+  "sourceDirName": "06-symfony",
+  "slug": "/symfony/twig",
+  "permalink": "/Roadmap-Dev-Symfony/docs/symfony/twig",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/06-symfony/04-twig.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Les contrôleurs",
+    "permalink": "/Roadmap-Dev-Symfony/docs/symfony/controleurs"
+  },
+  "next": {
+    "title": "Les modèles",
+    "permalink": "/Roadmap-Dev-Symfony/docs/symfony/modeles"
+  }
+}

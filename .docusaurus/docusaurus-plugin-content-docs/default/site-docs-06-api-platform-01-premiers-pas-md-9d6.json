@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Api-Platform/premiers-pas",
+  "id": "Api-Platform/premiers-pas",
+  "isDocsHomePage": false,
+  "title": "Premiers pas",
+  "description": "---------------",
+  "source": "@site/docs/06-Api-Platform/01-premiers-pas.md",
+  "sourceDirName": "06-Api-Platform",
+  "slug": "/Api-Platform/premiers-pas",
+  "permalink": "/Roadmap-Dev-Symfony/docs/Api-Platform/premiers-pas",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/06-Api-Platform/01-premiers-pas.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Api-Platform/introduction"
+  },
+  "next": {
+    "title": "La sérialisation",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Api-Platform/serialisation"
+  }
+}

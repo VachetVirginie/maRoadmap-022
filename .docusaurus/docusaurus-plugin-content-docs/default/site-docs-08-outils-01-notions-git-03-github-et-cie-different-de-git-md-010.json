@@ -1,0 +1,23 @@
+{
+  "unversionedId": "outils/notions-git/github-et-cie-different-de-git",
+  "id": "outils/notions-git/github-et-cie-different-de-git",
+  "isDocsHomePage": false,
+  "title": "GitHub / GitLab / Framagit est différent de Git",
+  "description": "Lorsque l'on parle de git, on l'associe trop à Github, au point parfois de mélanger les deux. Github n'est là que pour servir de dépôt distant pour votre versionning mais il est tout à fait possible d'utiliser git sans ce genre de service.",
+  "source": "@site/docs/08-outils/01-notions-git/03-github-et-cie-different-de-git.md",
+  "sourceDirName": "08-outils/01-notions-git",
+  "slug": "/outils/notions-git/github-et-cie-different-de-git",
+  "permalink": "/Roadmap-Dev-Symfony/docs/outils/notions-git/github-et-cie-different-de-git",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/08-outils/01-notions-git/03-github-et-cie-different-de-git.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Débuter avec git",
+    "permalink": "/Roadmap-Dev-Symfony/docs/outils/notions-git/debuter-avec-git"
+  }
+}

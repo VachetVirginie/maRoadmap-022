@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Culture-generale-en-informatique/bases-d-internet/introduction",
+  "id": "Culture-generale-en-informatique/bases-d-internet/introduction",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "Aujourd'hui, on sort le smartphone de notre poche, on ouvre une application, et on accède à des millions d'informations ! Pourtant, derrière cette action si banale et anodine se cache en réalité une somme de complexité hallucinante si on prend le temps de s'y intéresser !",
+  "source": "@site/docs/01-Culture-generale-en-informatique/02-bases-d-internet/00-introduction.md",
+  "sourceDirName": "01-Culture-generale-en-informatique/02-bases-d-internet",
+  "slug": "/Culture-generale-en-informatique/bases-d-internet/introduction",
+  "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/bases-d-internet/introduction",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/01-Culture-generale-en-informatique/02-bases-d-internet/00-introduction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Client-Serveur",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/client-serveur"
+  },
+  "next": {
+    "title": "Les réseaux d'internet",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet"
+  }
+}

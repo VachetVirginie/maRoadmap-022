@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Culture-generale-en-informatique/Les-bases-des-reseaux/tcp-ip",
+  "id": "Culture-generale-en-informatique/Les-bases-des-reseaux/tcp-ip",
+  "isDocsHomePage": false,
+  "title": "TCP/IP",
+  "description": "TCP/IP fut créé lorsque Bob Kahn, travaillant alors pour la DARPA, dut créer un protocole pour un réseau de commutation de paquets par radio. Bien qu'ayant été un ingénieur majeur de l'ARPANET, qui utilisait alors le protocole NCP, il ne put se résoudre à l'utiliser car celui-ci devait fonctionner avec l'équipement réseau IMP et en plus n'effectuait pas de contrôle des erreurs. Il créa donc avec Vinton Cerf un protocole permettant de relier les réseaux entre eux.",
+  "source": "@site/docs/01-Culture-generale-en-informatique/01-Les-bases-des-reseaux/02-tcp-ip.md",
+  "sourceDirName": "01-Culture-generale-en-informatique/01-Les-bases-des-reseaux",
+  "slug": "/Culture-generale-en-informatique/Les-bases-des-reseaux/tcp-ip",
+  "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/tcp-ip",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/01-Culture-generale-en-informatique/01-Les-bases-des-reseaux/02-tcp-ip.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Les bases du réseau",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau"
+  },
+  "next": {
+    "title": "Les protocole DHCP et DNS",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/dhcp-dns"
+  }
+}

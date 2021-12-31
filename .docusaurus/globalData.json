@@ -1,0 +1,233 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/Roadmap-Dev-Symfony/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/Roadmap-Dev-Symfony/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Api-Platform/introduction",
+              "path": "/Roadmap-Dev-Symfony/docs/Api-Platform/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Api-Platform/premiers-pas",
+              "path": "/Roadmap-Dev-Symfony/docs/Api-Platform/premiers-pas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Api-Platform/serialisation",
+              "path": "/Roadmap-Dev-Symfony/docs/Api-Platform/serialisation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Api-Platform/validation",
+              "path": "/Roadmap-Dev-Symfony/docs/Api-Platform/validation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bases-de-symfony/histoire-symfony",
+              "path": "/Roadmap-Dev-Symfony/docs/bases-de-symfony/histoire-symfony",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bases-de-symfony/paradigme-mvc",
+              "path": "/Roadmap-Dev-Symfony/docs/bases-de-symfony/paradigme-mvc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Connaissances-de-base/bases-algorithme/les-boucles",
+              "path": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-algorithme/les-boucles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Connaissances-de-base/bases-algorithme/logique-booleenne-et-structures-conditionnelles",
+              "path": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-algorithme/logique-booleenne-et-structures-conditionnelles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Connaissances-de-base/bases-algorithme/variables-operateurs-flux-entree-et-sortie",
+              "path": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-algorithme/variables-operateurs-flux-entree-et-sortie",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Connaissances-de-base/bases-api/api-rest",
+              "path": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-api/api-rest",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Connaissances-de-base/bases-api/introduction",
+              "path": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-api/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Culture-generale-en-informatique/bases-d-internet/introduction",
+              "path": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/bases-d-internet/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet",
+              "path": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Culture-generale-en-informatique/bases-d-internet/un-serveur-web",
+              "path": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/bases-d-internet/un-serveur-web",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Culture-generale-en-informatique/books",
+              "path": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/books",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet",
+              "path": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Culture-generale-en-informatique/histoire-de-l-informatique",
+              "path": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/histoire-de-l-informatique",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Culture-generale-en-informatique/introduction",
+              "path": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Culture-generale-en-informatique/Les-bases-des-reseaux/client-serveur",
+              "path": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/client-serveur",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Culture-generale-en-informatique/Les-bases-des-reseaux/dhcp-dns",
+              "path": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/dhcp-dns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau",
+              "path": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Culture-generale-en-informatique/Les-bases-des-reseaux/tcp-ip",
+              "path": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/tcp-ip",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Culture-generale-en-informatique/un-ordinateur",
+              "path": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/un-ordinateur",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/Roadmap-Dev-Symfony/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Notions-systeme/docker/docker-sous-symfony",
+              "path": "/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/docker-sous-symfony",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Notions-systeme/docker/le-concept",
+              "path": "/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/le-concept",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Notions-systeme/docker/passerelle-de-la-base-a-la-pratique",
+              "path": "/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/passerelle-de-la-base-a-la-pratique",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Notions-systeme/linux/introduction",
+              "path": "/Roadmap-Dev-Symfony/docs/Notions-systeme/linux/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Notions-systeme/linux/les-commandes-de-base",
+              "path": "/Roadmap-Dev-Symfony/docs/Notions-systeme/linux/les-commandes-de-base",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "outils/notions-git/debuter-avec-git",
+              "path": "/Roadmap-Dev-Symfony/docs/outils/notions-git/debuter-avec-git",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "outils/notions-git/github-et-cie-different-de-git",
+              "path": "/Roadmap-Dev-Symfony/docs/outils/notions-git/github-et-cie-different-de-git",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "outils/notions-git/introduction",
+              "path": "/Roadmap-Dev-Symfony/docs/outils/notions-git/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "outils/notions-git/qu-est-ce-que-le-versionning",
+              "path": "/Roadmap-Dev-Symfony/docs/outils/notions-git/qu-est-ce-que-le-versionning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "php/design-patterns",
+              "path": "/Roadmap-Dev-Symfony/docs/php/design-patterns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "php/introduction",
+              "path": "/Roadmap-Dev-Symfony/docs/php/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "symfony-5/controleurs",
+              "path": "/Roadmap-Dev-Symfony/docs/symfony-5/controleurs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "symfony-5/formulaires",
+              "path": "/Roadmap-Dev-Symfony/docs/symfony-5/formulaires",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "symfony-5/http_foundation",
+              "path": "/Roadmap-Dev-Symfony/docs/symfony-5/http_foundation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "symfony-5/introduction",
+              "path": "/Roadmap-Dev-Symfony/docs/symfony-5/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "symfony-5/modeles",
+              "path": "/Roadmap-Dev-Symfony/docs/symfony-5/modeles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "symfony-5/routage",
+              "path": "/Roadmap-Dev-Symfony/docs/symfony-5/routage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "symfony-5/services",
+              "path": "/Roadmap-Dev-Symfony/docs/symfony-5/services",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "symfony-5/twig",
+              "path": "/Roadmap-Dev-Symfony/docs/symfony-5/twig",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

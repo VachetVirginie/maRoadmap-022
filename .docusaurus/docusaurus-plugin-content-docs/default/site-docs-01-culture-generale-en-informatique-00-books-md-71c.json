@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Culture-generale-en-informatique/books",
+  "id": "Culture-generale-en-informatique/books",
+  "isDocsHomePage": false,
+  "title": "Livres à lire ou relire cette année",
+  "description": "1- Fabien Potencier - En route pour Symfony 5.",
+  "source": "@site/docs/01-Culture-generale-en-informatique/00-books.md",
+  "sourceDirName": "01-Culture-generale-en-informatique",
+  "slug": "/Culture-generale-en-informatique/books",
+  "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/books",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/01-Culture-generale-en-informatique/00-books.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Une contre histoire de l'Internet - ARTe",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet"
+  },
+  "next": {
+    "title": "Variables, opérateurs et flux d'entrée/sortie",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-algorithme/variables-operateurs-flux-entree-et-sortie"
+  }
+}

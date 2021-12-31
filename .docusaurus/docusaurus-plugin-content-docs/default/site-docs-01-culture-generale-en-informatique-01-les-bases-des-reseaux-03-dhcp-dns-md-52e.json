@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Culture-generale-en-informatique/Les-bases-des-reseaux/dhcp-dns",
+  "id": "Culture-generale-en-informatique/Les-bases-des-reseaux/dhcp-dns",
+  "isDocsHomePage": false,
+  "title": "Les protocole DHCP et DNS",
+  "description": "* DHCP",
+  "source": "@site/docs/01-Culture-generale-en-informatique/01-Les-bases-des-reseaux/03-dhcp-dns.md",
+  "sourceDirName": "01-Culture-generale-en-informatique/01-Les-bases-des-reseaux",
+  "slug": "/Culture-generale-en-informatique/Les-bases-des-reseaux/dhcp-dns",
+  "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/dhcp-dns",
+  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/docs/01-Culture-generale-en-informatique/01-Les-bases-des-reseaux/03-dhcp-dns.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TCP/IP",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/tcp-ip"
+  },
+  "next": {
+    "title": "Client-Serveur",
+    "permalink": "/Roadmap-Dev-Symfony/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/client-serveur"
+  }
+}
