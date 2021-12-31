@@ -1,6 +1,6 @@
 {
   "permalink": "/blog/les-copains-et-copines",
-  "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/blog/2021-11-08-Hello-world.md",
+  "editUrl": "https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/blog/2021-11-08-Hello-world.md",
   "source": "@site/blog/2021-11-08-Hello-world.md",
   "title": "Hey, les copains et copines",
   "description": "L'article ci-dessous est à l'origine un fil Twitter. Pour le rendre cohérent, il a été très légèrement modifié.",
@@ -18,8 +18,8 @@
     {
       "name": "Yoan Bernabeu",
       "title": "Mainteneur de la Roadmap Dev Symfony",
-      "url": "https://github.com/yoanbernabeu",
-      "imageURL": "https://github.com/yoanbernabeu.png",
+      "url": "https://github.com/VachetVirginie",
+      "imageURL": "https://github.com/VachetVirginie.png",
       "key": "yoandev"
     }
   ]

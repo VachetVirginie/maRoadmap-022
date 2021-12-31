@@ -29,4 +29,4 @@ De mon point de vue, avoir des bases, même minimaliste des grands principes de 
 Je vais bosser dessus cette semaine, je lancerais l'affaire publiquement probablement samedi prochain 🚀
 
 🙏 Vous voulez être de l'aventure ?
-Venez dans les [issues du dépot](https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/issues), on en discute ❤
+Venez dans les [issues du dépot](https://github.com/VachetVirginie/Roadmap-Dev-Symfony/issues), on en discute ❤

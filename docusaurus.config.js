@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Ma Roadmap 2022',
   tagline: 'Une Roadmap pour progresser en 2022 !',
-  url: 'https://yoanbernabeu.github.io/',
+  url: 'https://VachetVirginie.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'yoanbernabeu', // Usually your GitHub org/user name.
+  organizationName: 'VachetVirginie', // Usually your GitHub org/user name.
   projectName: 'Roadmap-Dev-Symfony', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
@@ -25,13 +25,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/',
+          editUrl: 'https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/',
+            'https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

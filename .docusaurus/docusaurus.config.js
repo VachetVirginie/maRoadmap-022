@@ -6,7 +6,7 @@ export default {
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "vivi",
+  "organizationName": "VachetVirginie",
   "projectName": "Roadmap-Dev-Symfony",
   "deploymentBranch": "gh-pages",
   "presets": [
@@ -256,7 +256,7 @@ export default {
       "searchParameters": {}
     },
     "colorMode": {
-      "defaultMode": "dark",
+      "defaultMode": "light",
       "disableSwitch": false,
       "respectPrefersColorScheme": false,
       "switchConfig": {

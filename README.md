@@ -3,7 +3,7 @@
 
 *Ce site web est construit avec [Docusaurus 2](https://docusaurus.io/).*
 
-*Ce site web est basé sur le projet de [Yoan Bernabeu ](https://github.com/yoanbernabeu/).*
+*Ce site web est basé sur le projet de [Yoan Bernabeu ](https://github.com/VachetVirginie/).*
 
 Lancer le projet en local
 -------------------------
@@ -14,7 +14,7 @@ Node.js version >= 14 ou supérieure (qui peut être vérifiée en exécutant no
 
 *Vous pouvez utiliser [nvm](https://github.com/nvm-sh/nvm) pour gérer plusieurs versions de Node sur une seule machine installée*
 
-### [](https://github.com/yoanbernabeu/Roadmap-Dev-Symfony#installation)
+### [](https://github.com/VachetVirginie/Roadmap-Dev-Symfony#installation)
 
 ### Installation
 
@@ -23,7 +23,7 @@ $ npm install
 
 ```
 
-### [](https://github.com/yoanbernabeu/Roadmap-Dev-Symfony#serveur-de-développement)
+### [](https://github.com/VachetVirginie/Roadmap-Dev-Symfony#serveur-de-développement)
 
 ### Serveur de développement
 
@@ -32,7 +32,7 @@ $ npm start
 
 ```
 
-### [](https://github.com/yoanbernabeu/Roadmap-Dev-Symfony#builder-lapplication-en-local)
+### [](https://github.com/VachetVirginie/Roadmap-Dev-Symfony#builder-lapplication-en-local)
 
 ### Builder l'application en local
 
