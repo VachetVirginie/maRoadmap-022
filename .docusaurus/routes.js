@@ -75,7 +75,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','3d5'),
+    component: ComponentCreator('/docs','be9'),
     routes: [
       {
         path: '/docs/Api-Platform/introduction',
@@ -283,7 +283,7 @@ export default [
       },
       {
         path: '/docs/php/design-patterns',
-        component: ComponentCreator('/docs/php/design-patterns','90f'),
+        component: ComponentCreator('/docs/php/design-patterns','c33'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -295,7 +295,7 @@ export default [
       },
       {
         path: '/docs/php/poo',
-        component: ComponentCreator('/docs/php/poo','63b'),
+        component: ComponentCreator('/docs/php/poo','c32'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
