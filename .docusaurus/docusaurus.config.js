@@ -1,12 +1,12 @@
 export default {
   "title": "Ma Roadmap 2022",
   "tagline": "Une Roadmap pour progresser en 2022 !",
-  "url": "https://yoanbernabeu.github.io/",
+  "url": "https://VachetVirginie.github.io/",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "yoanbernabeu",
+  "organizationName": "vivi",
   "projectName": "Roadmap-Dev-Symfony",
   "deploymentBranch": "gh-pages",
   "presets": [
@@ -15,11 +15,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/vivi./Dev/roadmap/sidebars.js",
-          "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/"
+          "editUrl": "https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/yoanbernabeu/Roadmap-Dev-Symfony/edit/main/"
+          "editUrl": "https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/"
         },
         "theme": {
           "customCss": "/Users/vivi./Dev/roadmap/src/css/custom.css"
