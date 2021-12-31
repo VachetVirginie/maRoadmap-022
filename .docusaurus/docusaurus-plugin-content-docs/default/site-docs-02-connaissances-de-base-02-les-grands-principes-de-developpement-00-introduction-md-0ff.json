@@ -7,8 +7,8 @@
   "source": "@site/docs/02-Connaissances-de-base/02-les-grands-principes-de-developpement/00-introduction.md",
   "sourceDirName": "02-Connaissances-de-base/02-les-grands-principes-de-developpement",
   "slug": "/Connaissances-de-base/les-grands-principes-de-developpement/introduction",
-  "permalink": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/les-grands-principes-de-developpement/introduction",
-  "editUrl": "https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/docs/02-Connaissances-de-base/02-les-grands-principes-de-developpement/00-introduction.md",
+  "permalink": "/maRoadmap2022/docs/Connaissances-de-base/les-grands-principes-de-developpement/introduction",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/02-Connaissances-de-base/02-les-grands-principes-de-developpement/00-introduction.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 0,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Les boucles",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-algorithme/les-boucles"
+    "permalink": "/maRoadmap2022/docs/Connaissances-de-base/bases-algorithme/les-boucles"
   },
   "next": {
     "title": "Introduction",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-api/introduction"
+    "permalink": "/maRoadmap2022/docs/Connaissances-de-base/bases-api/introduction"
   }
 }

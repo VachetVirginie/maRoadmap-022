@@ -7,8 +7,8 @@
   "source": "@site/docs/06-Notions-systeme/02-docker/00-le-concept.md",
   "sourceDirName": "06-Notions-systeme/02-docker",
   "slug": "/Notions-systeme/docker/le-concept",
-  "permalink": "/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/le-concept",
-  "editUrl": "https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/docs/06-Notions-systeme/02-docker/00-le-concept.md",
+  "permalink": "/maRoadmap2022/docs/Notions-systeme/docker/le-concept",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/06-Notions-systeme/02-docker/00-le-concept.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 0,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Les commandes de base",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Notions-systeme/linux/les-commandes-de-base"
+    "permalink": "/maRoadmap2022/docs/Notions-systeme/linux/les-commandes-de-base"
   },
   "next": {
     "title": "Passerelle de la base à la pratique sous symfony",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/passerelle-de-la-base-a-la-pratique"
+    "permalink": "/maRoadmap2022/docs/Notions-systeme/docker/passerelle-de-la-base-a-la-pratique"
   }
 }

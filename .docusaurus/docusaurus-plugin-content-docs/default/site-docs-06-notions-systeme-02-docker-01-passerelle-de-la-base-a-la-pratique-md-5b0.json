@@ -7,8 +7,8 @@
   "source": "@site/docs/06-Notions-systeme/02-docker/01-passerelle-de-la-base-a-la-pratique.md",
   "sourceDirName": "06-Notions-systeme/02-docker",
   "slug": "/Notions-systeme/docker/passerelle-de-la-base-a-la-pratique",
-  "permalink": "/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/passerelle-de-la-base-a-la-pratique",
-  "editUrl": "https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/docs/06-Notions-systeme/02-docker/01-passerelle-de-la-base-a-la-pratique.md",
+  "permalink": "/maRoadmap2022/docs/Notions-systeme/docker/passerelle-de-la-base-a-la-pratique",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/06-Notions-systeme/02-docker/01-passerelle-de-la-base-a-la-pratique.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Comprendre Docker",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/le-concept"
+    "permalink": "/maRoadmap2022/docs/Notions-systeme/docker/le-concept"
   },
   "next": {
     "title": "Utilisation de docker avec Symfony",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Notions-systeme/docker/docker-sous-symfony"
+    "permalink": "/maRoadmap2022/docs/Notions-systeme/docker/docker-sous-symfony"
   }
 }

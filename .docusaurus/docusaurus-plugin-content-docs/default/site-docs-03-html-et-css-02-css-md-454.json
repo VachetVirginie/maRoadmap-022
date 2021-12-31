@@ -7,8 +7,8 @@
   "source": "@site/docs/03-html-et-css/02-css.md",
   "sourceDirName": "03-html-et-css",
   "slug": "/html-et-css/css",
-  "permalink": "/Roadmap-Dev-Symfony/docs/html-et-css/css",
-  "editUrl": "https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/docs/03-html-et-css/02-css.md",
+  "permalink": "/maRoadmap2022/docs/html-et-css/css",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/03-html-et-css/02-css.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "HTML HyperText Markup Language",
-    "permalink": "/Roadmap-Dev-Symfony/docs/html-et-css/html"
+    "permalink": "/maRoadmap2022/docs/html-et-css/html"
   },
   "next": {
     "title": "Introduction",
-    "permalink": "/Roadmap-Dev-Symfony/docs/php/introduction"
+    "permalink": "/maRoadmap2022/docs/php/introduction"
   }
 }

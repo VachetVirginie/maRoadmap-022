@@ -7,7 +7,7 @@ export default {
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "VachetVirginie",
-  "projectName": "Roadmap-Dev-Symfony",
+  "projectName": "maRoadmap2022",
   "deploymentBranch": "gh-pages",
   "presets": [
     [
@@ -15,11 +15,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/vivi./Dev/roadmap/sidebars.js",
-          "editUrl": "https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/"
+          "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/"
+          "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/"
         },
         "theme": {
           "customCss": "/Users/vivi./Dev/roadmap/src/css/custom.css"

@@ -7,8 +7,8 @@
   "source": "@site/docs/06-symfony/06-formulaires.md",
   "sourceDirName": "06-symfony",
   "slug": "/symfony/formulaires",
-  "permalink": "/Roadmap-Dev-Symfony/docs/symfony/formulaires",
-  "editUrl": "https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/docs/06-symfony/06-formulaires.md",
+  "permalink": "/maRoadmap2022/docs/symfony/formulaires",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/06-symfony/06-formulaires.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 6,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Les modèles",
-    "permalink": "/Roadmap-Dev-Symfony/docs/symfony/modeles"
+    "permalink": "/maRoadmap2022/docs/symfony/modeles"
   },
   "next": {
     "title": "Les services",
-    "permalink": "/Roadmap-Dev-Symfony/docs/symfony/services"
+    "permalink": "/maRoadmap2022/docs/symfony/services"
   }
 }

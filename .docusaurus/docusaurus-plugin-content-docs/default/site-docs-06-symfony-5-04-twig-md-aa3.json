@@ -7,8 +7,8 @@
   "source": "@site/docs/06-symfony 5/04-twig.md",
   "sourceDirName": "06-symfony 5",
   "slug": "/symfony 5/twig",
-  "permalink": "/Roadmap-Dev-Symfony/docs/symfony 5/twig",
-  "editUrl": "https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/docs/06-symfony 5/04-twig.md",
+  "permalink": "/maRoadmap2022/docs/symfony 5/twig",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/06-symfony 5/04-twig.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Les contrôleurs",
-    "permalink": "/Roadmap-Dev-Symfony/docs/symfony 5/controleurs"
+    "permalink": "/maRoadmap2022/docs/symfony 5/controleurs"
   },
   "next": {
     "title": "Les modèles",
-    "permalink": "/Roadmap-Dev-Symfony/docs/symfony 5/modeles"
+    "permalink": "/maRoadmap2022/docs/symfony 5/modeles"
   }
 }

@@ -7,8 +7,8 @@
   "source": "@site/docs/06-symfony/02-routage.md",
   "sourceDirName": "06-symfony",
   "slug": "/symfony/routage",
-  "permalink": "/Roadmap-Dev-Symfony/docs/symfony/routage",
-  "editUrl": "https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/docs/06-symfony/02-routage.md",
+  "permalink": "/maRoadmap2022/docs/symfony/routage",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/06-symfony/02-routage.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/Roadmap-Dev-Symfony/docs/symfony/introduction"
+    "permalink": "/maRoadmap2022/docs/symfony/introduction"
   },
   "next": {
     "title": "Les contrôleurs",
-    "permalink": "/Roadmap-Dev-Symfony/docs/symfony/controleurs"
+    "permalink": "/maRoadmap2022/docs/symfony/controleurs"
   }
 }

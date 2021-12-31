@@ -1,9 +1,9 @@
 {
-  "/Roadmap-Dev-Symfony/blog/tags/actualite": {
-    "allTagsPath": "/Roadmap-Dev-Symfony/blog/tags",
-    "slug": "/Roadmap-Dev-Symfony/blog/tags/actualite",
+  "/maRoadmap2022/blog/tags/actualite": {
+    "allTagsPath": "/maRoadmap2022/blog/tags",
+    "slug": "/maRoadmap2022/blog/tags/actualite",
     "name": "actualité",
     "count": 1,
-    "permalink": "/Roadmap-Dev-Symfony/blog/tags/actualite"
+    "permalink": "/maRoadmap2022/blog/tags/actualite"
   }
 }

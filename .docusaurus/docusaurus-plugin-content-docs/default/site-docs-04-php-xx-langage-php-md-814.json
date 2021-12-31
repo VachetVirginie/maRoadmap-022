@@ -7,8 +7,8 @@
   "source": "@site/docs/04-php/xx-langage-php.md",
   "sourceDirName": "04-php",
   "slug": "/php/xx-langage-php",
-  "permalink": "/Roadmap-Dev-Symfony/docs/php/xx-langage-php",
-  "editUrl": "https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/docs/04-php/xx-langage-php.md",
+  "permalink": "/maRoadmap2022/docs/php/xx-langage-php",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/04-php/xx-langage-php.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Design Patterns",
-    "permalink": "/Roadmap-Dev-Symfony/docs/php/design-patterns"
+    "permalink": "/maRoadmap2022/docs/php/design-patterns"
   },
   "next": {
     "title": "L'histoire de Symfony",
-    "permalink": "/Roadmap-Dev-Symfony/docs/bases-de-symfony/histoire-symfony"
+    "permalink": "/maRoadmap2022/docs/bases-de-symfony/histoire-symfony"
   }
 }

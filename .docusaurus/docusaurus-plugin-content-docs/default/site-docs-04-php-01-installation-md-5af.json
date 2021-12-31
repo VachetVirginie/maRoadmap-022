@@ -7,8 +7,8 @@
   "source": "@site/docs/04-php/01-Installation.md",
   "sourceDirName": "04-php",
   "slug": "/php/Installation",
-  "permalink": "/Roadmap-Dev-Symfony/docs/php/Installation",
-  "editUrl": "https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/docs/04-php/01-Installation.md",
+  "permalink": "/maRoadmap2022/docs/php/Installation",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/04-php/01-Installation.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/Roadmap-Dev-Symfony/docs/php/introduction"
+    "permalink": "/maRoadmap2022/docs/php/introduction"
   },
   "next": {
     "title": "le langage php",
-    "permalink": "/Roadmap-Dev-Symfony/docs/php/xx-langage-php"
+    "permalink": "/maRoadmap2022/docs/php/xx-langage-php"
   }
 }

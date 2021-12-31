@@ -7,8 +7,8 @@
   "source": "@site/docs/04-php/00-introduction.md",
   "sourceDirName": "04-php",
   "slug": "/php/introduction",
-  "permalink": "/Roadmap-Dev-Symfony/docs/php/introduction",
-  "editUrl": "https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/docs/04-php/00-introduction.md",
+  "permalink": "/maRoadmap2022/docs/php/introduction",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/04-php/00-introduction.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 0,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Feuilles de style en cascade",
-    "permalink": "/Roadmap-Dev-Symfony/docs/html-et-css/css"
+    "permalink": "/maRoadmap2022/docs/html-et-css/css"
   },
   "next": {
     "title": "Design Patterns",
-    "permalink": "/Roadmap-Dev-Symfony/docs/php/design-patterns"
+    "permalink": "/maRoadmap2022/docs/php/design-patterns"
   }
 }

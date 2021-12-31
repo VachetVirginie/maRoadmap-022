@@ -7,8 +7,8 @@
   "source": "@site/docs/04-php/01-design-patterns.md",
   "sourceDirName": "04-php",
   "slug": "/php/design-patterns",
-  "permalink": "/Roadmap-Dev-Symfony/docs/php/design-patterns",
-  "editUrl": "https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/docs/04-php/01-design-patterns.md",
+  "permalink": "/maRoadmap2022/docs/php/design-patterns",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/04-php/01-design-patterns.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/Roadmap-Dev-Symfony/docs/php/introduction"
+    "permalink": "/maRoadmap2022/docs/php/introduction"
   },
   "next": {
     "title": "L'histoire de Symfony",
-    "permalink": "/Roadmap-Dev-Symfony/docs/bases-de-symfony/histoire-symfony"
+    "permalink": "/maRoadmap2022/docs/bases-de-symfony/histoire-symfony"
   }
 }

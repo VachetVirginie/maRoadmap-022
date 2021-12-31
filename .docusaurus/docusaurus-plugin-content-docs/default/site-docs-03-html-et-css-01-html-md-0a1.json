@@ -7,8 +7,8 @@
   "source": "@site/docs/03-html-et-css/01-html.md",
   "sourceDirName": "03-html-et-css",
   "slug": "/html-et-css/html",
-  "permalink": "/Roadmap-Dev-Symfony/docs/html-et-css/html",
-  "editUrl": "https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/docs/03-html-et-css/01-html.md",
+  "permalink": "/maRoadmap2022/docs/html-et-css/html",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/03-html-et-css/01-html.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Les APIs REST",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Connaissances-de-base/bases-api/api-rest"
+    "permalink": "/maRoadmap2022/docs/Connaissances-de-base/bases-api/api-rest"
   },
   "next": {
     "title": "Feuilles de style en cascade",
-    "permalink": "/Roadmap-Dev-Symfony/docs/html-et-css/css"
+    "permalink": "/maRoadmap2022/docs/html-et-css/css"
   }
 }

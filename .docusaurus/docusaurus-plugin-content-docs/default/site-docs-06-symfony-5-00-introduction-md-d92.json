@@ -7,8 +7,8 @@
   "source": "@site/docs/06-symfony 5/00-introduction.md",
   "sourceDirName": "06-symfony 5",
   "slug": "/symfony 5/introduction",
-  "permalink": "/Roadmap-Dev-Symfony/docs/symfony 5/introduction",
-  "editUrl": "https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/docs/06-symfony 5/00-introduction.md",
+  "permalink": "/maRoadmap2022/docs/symfony 5/introduction",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/06-symfony 5/00-introduction.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 0,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Le paradigme MVC",
-    "permalink": "/Roadmap-Dev-Symfony/docs/bases-de-symfony/paradigme-mvc"
+    "permalink": "/maRoadmap2022/docs/bases-de-symfony/paradigme-mvc"
   },
   "next": {
     "title": "HTTP foundation",
-    "permalink": "/Roadmap-Dev-Symfony/docs/symfony 5/http_foundation"
+    "permalink": "/maRoadmap2022/docs/symfony 5/http_foundation"
   }
 }

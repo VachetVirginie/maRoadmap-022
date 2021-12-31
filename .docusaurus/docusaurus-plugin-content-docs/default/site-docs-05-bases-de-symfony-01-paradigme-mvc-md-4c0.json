@@ -7,8 +7,8 @@
   "source": "@site/docs/05-bases-de-symfony/01-paradigme-mvc.md",
   "sourceDirName": "05-bases-de-symfony",
   "slug": "/bases-de-symfony/paradigme-mvc",
-  "permalink": "/Roadmap-Dev-Symfony/docs/bases-de-symfony/paradigme-mvc",
-  "editUrl": "https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/docs/05-bases-de-symfony/01-paradigme-mvc.md",
+  "permalink": "/maRoadmap2022/docs/bases-de-symfony/paradigme-mvc",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/05-bases-de-symfony/01-paradigme-mvc.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "L'histoire de Symfony",
-    "permalink": "/Roadmap-Dev-Symfony/docs/bases-de-symfony/histoire-symfony"
+    "permalink": "/maRoadmap2022/docs/bases-de-symfony/histoire-symfony"
   },
   "next": {
     "title": "Introduction",
-    "permalink": "/Roadmap-Dev-Symfony/docs/symfony-5/introduction"
+    "permalink": "/maRoadmap2022/docs/symfony-5/introduction"
   }
 }

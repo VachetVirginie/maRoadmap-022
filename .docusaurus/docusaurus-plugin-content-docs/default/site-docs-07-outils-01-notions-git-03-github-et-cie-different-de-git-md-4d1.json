@@ -7,8 +7,8 @@
   "source": "@site/docs/07-outils/01-notions-git/03-github-et-cie-different-de-git.md",
   "sourceDirName": "07-outils/01-notions-git",
   "slug": "/outils/notions-git/github-et-cie-different-de-git",
-  "permalink": "/Roadmap-Dev-Symfony/docs/outils/notions-git/github-et-cie-different-de-git",
-  "editUrl": "https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/docs/07-outils/01-notions-git/03-github-et-cie-different-de-git.md",
+  "permalink": "/maRoadmap2022/docs/outils/notions-git/github-et-cie-different-de-git",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/07-outils/01-notions-git/03-github-et-cie-different-de-git.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Débuter avec git",
-    "permalink": "/Roadmap-Dev-Symfony/docs/outils/notions-git/debuter-avec-git"
+    "permalink": "/maRoadmap2022/docs/outils/notions-git/debuter-avec-git"
   }
 }

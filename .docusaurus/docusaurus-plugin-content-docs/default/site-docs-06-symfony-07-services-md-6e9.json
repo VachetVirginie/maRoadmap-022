@@ -7,8 +7,8 @@
   "source": "@site/docs/06-symfony/07-services.md",
   "sourceDirName": "06-symfony",
   "slug": "/symfony/services",
-  "permalink": "/Roadmap-Dev-Symfony/docs/symfony/services",
-  "editUrl": "https://github.com/VachetVirginie/Roadmap-Dev-Symfony/edit/main/docs/06-symfony/07-services.md",
+  "permalink": "/maRoadmap2022/docs/symfony/services",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/06-symfony/07-services.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 7,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Les formulaires",
-    "permalink": "/Roadmap-Dev-Symfony/docs/symfony/formulaires"
+    "permalink": "/maRoadmap2022/docs/symfony/formulaires"
   },
   "next": {
     "title": "Introduction",
-    "permalink": "/Roadmap-Dev-Symfony/docs/Notions-systeme/linux/introduction"
+    "permalink": "/maRoadmap2022/docs/Notions-systeme/linux/introduction"
   }
 }
