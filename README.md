@@ -5,6 +5,8 @@
 
 *Ce site web est basé sur le projet de [Yoan Bernabeu ](https://github.com/yoanbernabeu/).*
 
+![wip](https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png)
+
 Lancer le projet en local
 -------------------------
 
