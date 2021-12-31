@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Culture-generale-en-informatique/base-de-linformatique",
+  "id": "Culture-generale-en-informatique/base-de-linformatique",
+  "isDocsHomePage": false,
+  "title": "Bases de l'informatique",
+  "description": "Comment fonctionne un ordinateur?",
+  "source": "@site/docs/01-Culture-generale-en-informatique/03-base-de-linformatique.md",
+  "sourceDirName": "01-Culture-generale-en-informatique",
+  "slug": "/Culture-generale-en-informatique/base-de-linformatique",
+  "permalink": "/docs/Culture-generale-en-informatique/base-de-linformatique",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/01-Culture-generale-en-informatique/03-base-de-linformatique.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Un ordinateur ?",
+    "permalink": "/docs/Culture-generale-en-informatique/un-ordinateur"
+  },
+  "next": {
+    "title": "Les bases du réseau",
+    "permalink": "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau"
+  }
+}

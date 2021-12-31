@@ -66,8 +66,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Culture-generale-en-informatique/bases-d-internet/introduction",
-              "path": "/docs/Culture-generale-en-informatique/bases-d-internet/introduction",
+              "id": "Culture-generale-en-informatique/base-de-linformatique",
+              "path": "/docs/Culture-generale-en-informatique/base-de-linformatique",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -86,6 +86,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Culture-generale-en-informatique/docus/nom-de-code-linux",
+              "path": "/docs/Culture-generale-en-informatique/docus/nom-de-code-linux",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet",
               "path": "/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet",
               "sidebar": "tutorialSidebar"
@@ -93,11 +98,6 @@
             {
               "id": "Culture-generale-en-informatique/histoire-de-l-informatique",
               "path": "/docs/Culture-generale-en-informatique/histoire-de-l-informatique",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Culture-generale-en-informatique/introduction",
-              "path": "/docs/Culture-generale-en-informatique/introduction",
               "sidebar": "tutorialSidebar"
             },
             {

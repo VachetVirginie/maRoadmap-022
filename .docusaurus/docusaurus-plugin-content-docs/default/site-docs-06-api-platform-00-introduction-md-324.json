@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Le paradigme MVC",
-    "permalink": "/docs/bases-de-symfony/paradigme-mvc"
+    "title": "Les services",
+    "permalink": "/docs/symfony-5/services"
   },
   "next": {
     "title": "Premiers pas",

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Culture-generale-en-informatique/docus/nom-de-code-linux",
+  "id": "Culture-generale-en-informatique/docus/nom-de-code-linux",
+  "isDocsHomePage": false,
+  "title": "Nom de code Linux",
+  "description": "---------------",
+  "source": "@site/docs/01-Culture-generale-en-informatique/03-docus/01-nom-de-code-linux.md",
+  "sourceDirName": "01-Culture-generale-en-informatique/03-docus",
+  "slug": "/Culture-generale-en-informatique/docus/nom-de-code-linux",
+  "permalink": "/docs/Culture-generale-en-informatique/docus/nom-de-code-linux",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/01-Culture-generale-en-informatique/03-docus/01-nom-de-code-linux.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Une contre histoire de l'Internet - ARTe",
+    "permalink": "/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet"
+  },
+  "next": {
+    "title": "Livres à lire ou relire cette année",
+    "permalink": "/docs/Culture-generale-en-informatique/books"
+  }
+}

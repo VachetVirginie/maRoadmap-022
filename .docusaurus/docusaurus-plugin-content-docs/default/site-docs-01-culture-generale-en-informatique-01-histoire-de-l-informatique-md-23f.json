@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Introduction",
-    "permalink": "/docs/Culture-generale-en-informatique/introduction"
+    "title": "Présentation de la Roadmap",
+    "permalink": "/docs/intro"
   },
   "next": {
     "title": "Un ordinateur ?",

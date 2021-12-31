@@ -8,6 +8,10 @@ Au cœur de notre utilisation de l'informatique, il trône sur nos bureaux, il e
 
 En comprendre, succinctement et en synthèse, le mode de fonctionnement reste des connaissances très utiles 😀
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c96KP5jZVYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/85XUJXHbjBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Ressources
 
 * [Cour en ligne - Montez un PC](https://openclassrooms.com/fr/courses/7210326-montez-un-pc)

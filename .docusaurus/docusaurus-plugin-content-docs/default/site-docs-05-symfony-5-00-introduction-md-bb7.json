@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "La validation",
-    "permalink": "/docs/Api-Platform/validation"
+    "title": "Le paradigme MVC",
+    "permalink": "/docs/bases-de-symfony/paradigme-mvc"
   },
   "next": {
     "title": "HTTP foundation",

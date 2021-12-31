@@ -38,8 +38,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Le paradigme MVC",
-                "permalink": "/docs/bases-de-symfony/paradigme-mvc"
+                "title": "Les services",
+                "permalink": "/docs/symfony-5/services"
               },
               "next": {
                 "title": "Premiers pas",
@@ -124,7 +124,7 @@
               },
               "next": {
                 "title": "Introduction",
-                "permalink": "/docs/symfony-5/introduction"
+                "permalink": "/docs/Notions-systeme/linux/introduction"
               }
             },
             {
@@ -178,7 +178,7 @@
               },
               "next": {
                 "title": "Introduction",
-                "permalink": "/docs/Api-Platform/introduction"
+                "permalink": "/docs/symfony-5/introduction"
               }
             },
             {
@@ -317,30 +317,30 @@
               }
             },
             {
-              "unversionedId": "Culture-generale-en-informatique/bases-d-internet/introduction",
-              "id": "Culture-generale-en-informatique/bases-d-internet/introduction",
+              "unversionedId": "Culture-generale-en-informatique/base-de-linformatique",
+              "id": "Culture-generale-en-informatique/base-de-linformatique",
               "isDocsHomePage": false,
-              "title": "Introduction",
-              "description": "Aujourd'hui, on sort le smartphone de notre poche, on ouvre une application, et on accède à des millions d'informations ! Pourtant, derrière cette action si banale et anodine se cache en réalité une somme de complexité hallucinante si on prend le temps de s'y intéresser !",
-              "source": "@site/docs/01-Culture-generale-en-informatique/02-bases-d-internet/00-introduction.md",
-              "sourceDirName": "01-Culture-generale-en-informatique/02-bases-d-internet",
-              "slug": "/Culture-generale-en-informatique/bases-d-internet/introduction",
-              "permalink": "/docs/Culture-generale-en-informatique/bases-d-internet/introduction",
-              "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/01-Culture-generale-en-informatique/02-bases-d-internet/00-introduction.md",
+              "title": "Bases de l'informatique",
+              "description": "Comment fonctionne un ordinateur?",
+              "source": "@site/docs/01-Culture-generale-en-informatique/03-base-de-linformatique.md",
+              "sourceDirName": "01-Culture-generale-en-informatique",
+              "slug": "/Culture-generale-en-informatique/base-de-linformatique",
+              "permalink": "/docs/Culture-generale-en-informatique/base-de-linformatique",
+              "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/01-Culture-generale-en-informatique/03-base-de-linformatique.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 0,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 0
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Client-Serveur",
-                "permalink": "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/client-serveur"
+                "title": "Un ordinateur ?",
+                "permalink": "/docs/Culture-generale-en-informatique/un-ordinateur"
               },
               "next": {
-                "title": "Les réseaux d'internet",
-                "permalink": "/docs/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet"
+                "title": "Les bases du réseau",
+                "permalink": "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau"
               }
             },
             {
@@ -362,8 +362,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Introduction",
-                "permalink": "/docs/Culture-generale-en-informatique/bases-d-internet/introduction"
+                "title": "Client-Serveur",
+                "permalink": "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/client-serveur"
               },
               "next": {
                 "title": "Un serveur web",
@@ -416,12 +416,39 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Une contre histoire de l'Internet - ARTe",
-                "permalink": "/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet"
+                "title": "Nom de code Linux",
+                "permalink": "/docs/Culture-generale-en-informatique/docus/nom-de-code-linux"
               },
               "next": {
                 "title": "Variables, opérateurs et flux d'entrée/sortie",
                 "permalink": "/docs/Connaissances-de-base/bases-algorithme/variables-operateurs-flux-entree-et-sortie"
+              }
+            },
+            {
+              "unversionedId": "Culture-generale-en-informatique/docus/nom-de-code-linux",
+              "id": "Culture-generale-en-informatique/docus/nom-de-code-linux",
+              "isDocsHomePage": false,
+              "title": "Nom de code Linux",
+              "description": "---------------",
+              "source": "@site/docs/01-Culture-generale-en-informatique/03-docus/01-nom-de-code-linux.md",
+              "sourceDirName": "01-Culture-generale-en-informatique/03-docus",
+              "slug": "/Culture-generale-en-informatique/docus/nom-de-code-linux",
+              "permalink": "/docs/Culture-generale-en-informatique/docus/nom-de-code-linux",
+              "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/01-Culture-generale-en-informatique/03-docus/01-nom-de-code-linux.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Une contre histoire de l'Internet - ARTe",
+                "permalink": "/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet"
+              },
+              "next": {
+                "title": "Livres à lire ou relire cette année",
+                "permalink": "/docs/Culture-generale-en-informatique/books"
               }
             },
             {
@@ -447,8 +474,8 @@
                 "permalink": "/docs/Culture-generale-en-informatique/bases-d-internet/un-serveur-web"
               },
               "next": {
-                "title": "Livres à lire ou relire cette année",
-                "permalink": "/docs/Culture-generale-en-informatique/books"
+                "title": "Nom de code Linux",
+                "permalink": "/docs/Culture-generale-en-informatique/docus/nom-de-code-linux"
               }
             },
             {
@@ -470,39 +497,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Introduction",
-                "permalink": "/docs/Culture-generale-en-informatique/introduction"
-              },
-              "next": {
-                "title": "Un ordinateur ?",
-                "permalink": "/docs/Culture-generale-en-informatique/un-ordinateur"
-              }
-            },
-            {
-              "unversionedId": "Culture-generale-en-informatique/introduction",
-              "id": "Culture-generale-en-informatique/introduction",
-              "isDocsHomePage": false,
-              "title": "Introduction",
-              "description": "Avant d'envisager d'étudier un langage de programmation ou de mettre les doigts dans le code, il nous semble important de prendre le temps d'étudier quelques bases préalables.",
-              "source": "@site/docs/01-Culture-generale-en-informatique/00-introduction.md",
-              "sourceDirName": "01-Culture-generale-en-informatique",
-              "slug": "/Culture-generale-en-informatique/introduction",
-              "permalink": "/docs/Culture-generale-en-informatique/introduction",
-              "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/01-Culture-generale-en-informatique/00-introduction.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 0,
-              "frontMatter": {
-                "sidebar_position": 0
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
                 "title": "Présentation de la Roadmap",
                 "permalink": "/docs/intro"
               },
               "next": {
-                "title": "Histoire de l'informatique",
-                "permalink": "/docs/Culture-generale-en-informatique/histoire-de-l-informatique"
+                "title": "Un ordinateur ?",
+                "permalink": "/docs/Culture-generale-en-informatique/un-ordinateur"
               }
             },
             {
@@ -528,8 +528,8 @@
                 "permalink": "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/dhcp-dns"
               },
               "next": {
-                "title": "Introduction",
-                "permalink": "/docs/Culture-generale-en-informatique/bases-d-internet/introduction"
+                "title": "Les réseaux d'internet",
+                "permalink": "/docs/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet"
               }
             },
             {
@@ -578,8 +578,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Un ordinateur ?",
-                "permalink": "/docs/Culture-generale-en-informatique/un-ordinateur"
+                "title": "Bases de l'informatique",
+                "permalink": "/docs/Culture-generale-en-informatique/base-de-linformatique"
               },
               "next": {
                 "title": "TCP/IP",
@@ -636,8 +636,8 @@
                 "permalink": "/docs/Culture-generale-en-informatique/histoire-de-l-informatique"
               },
               "next": {
-                "title": "Les bases du réseau",
-                "permalink": "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau"
+                "title": "Bases de l'informatique",
+                "permalink": "/docs/Culture-generale-en-informatique/base-de-linformatique"
               }
             },
             {
@@ -659,8 +659,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Introduction",
-                "permalink": "/docs/Culture-generale-en-informatique/introduction"
+                "title": "Histoire de l'informatique",
+                "permalink": "/docs/Culture-generale-en-informatique/histoire-de-l-informatique"
               }
             },
             {
@@ -763,8 +763,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Les services",
-                "permalink": "/docs/symfony-5/services"
+                "title": "La validation",
+                "permalink": "/docs/Api-Platform/validation"
               },
               "next": {
                 "title": "Les commandes de base",
@@ -1137,8 +1137,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "La validation",
-                "permalink": "/docs/Api-Platform/validation"
+                "title": "Le paradigme MVC",
+                "permalink": "/docs/bases-de-symfony/paradigme-mvc"
               },
               "next": {
                 "title": "HTTP foundation",
@@ -1223,7 +1223,7 @@
               },
               "next": {
                 "title": "Introduction",
-                "permalink": "/docs/Notions-systeme/linux/introduction"
+                "permalink": "/docs/Api-Platform/introduction"
               }
             },
             {
@@ -1268,15 +1268,15 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Culture-generale-en-informatique/introduction"
-                  },
-                  {
-                    "type": "doc",
                     "id": "Culture-generale-en-informatique/histoire-de-l-informatique"
                   },
                   {
                     "type": "doc",
                     "id": "Culture-generale-en-informatique/un-ordinateur"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Culture-generale-en-informatique/base-de-linformatique"
                   },
                   {
                     "type": "category",
@@ -1310,10 +1310,6 @@
                     "items": [
                       {
                         "type": "doc",
-                        "id": "Culture-generale-en-informatique/bases-d-internet/introduction"
-                      },
-                      {
-                        "type": "doc",
                         "id": "Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet"
                       },
                       {
@@ -1331,6 +1327,10 @@
                       {
                         "type": "doc",
                         "id": "Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Culture-generale-en-informatique/docus/nom-de-code-linux"
                       }
                     ]
                   },
@@ -1422,30 +1422,6 @@
               },
               {
                 "type": "category",
-                "label": "API Platform",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Api-Platform/introduction"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Api-Platform/premiers-pas"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Api-Platform/serialisation"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Api-Platform/validation"
-                  }
-                ]
-              },
-              {
-                "type": "category",
                 "label": "Symfony",
                 "collapsible": true,
                 "collapsed": true,
@@ -1481,6 +1457,30 @@
                   {
                     "type": "doc",
                     "id": "symfony-5/services"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "API Platform",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Api-Platform/introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Api-Platform/premiers-pas"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Api-Platform/serialisation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Api-Platform/validation"
                   }
                 ]
               },

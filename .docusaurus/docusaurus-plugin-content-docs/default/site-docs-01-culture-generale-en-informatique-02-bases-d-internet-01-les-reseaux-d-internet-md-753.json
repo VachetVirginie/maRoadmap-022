@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Introduction",
-    "permalink": "/docs/Culture-generale-en-informatique/bases-d-internet/introduction"
+    "title": "Client-Serveur",
+    "permalink": "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/client-serveur"
   },
   "next": {
     "title": "Un serveur web",

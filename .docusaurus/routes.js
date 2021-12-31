@@ -75,7 +75,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','76c'),
+    component: ComponentCreator('/docs','4d9'),
     routes: [
       {
         path: '/docs/Api-Platform/introduction',
@@ -144,8 +144,8 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Culture-generale-en-informatique/bases-d-internet/introduction',
-        component: ComponentCreator('/docs/Culture-generale-en-informatique/bases-d-internet/introduction','a6b'),
+        path: '/docs/Culture-generale-en-informatique/base-de-linformatique',
+        component: ComponentCreator('/docs/Culture-generale-en-informatique/base-de-linformatique','2ab'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -168,6 +168,12 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/Culture-generale-en-informatique/docus/nom-de-code-linux',
+        component: ComponentCreator('/docs/Culture-generale-en-informatique/docus/nom-de-code-linux','02c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet',
         component: ComponentCreator('/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet','dea'),
         exact: true,
@@ -176,12 +182,6 @@ export default [
       {
         path: '/docs/Culture-generale-en-informatique/histoire-de-l-informatique',
         component: ComponentCreator('/docs/Culture-generale-en-informatique/histoire-de-l-informatique','86d'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/Culture-generale-en-informatique/introduction',
-        component: ComponentCreator('/docs/Culture-generale-en-informatique/introduction','33f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

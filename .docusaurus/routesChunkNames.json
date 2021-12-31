@@ -62,7 +62,7 @@
   "/search-676": {
     "component": "component---users-vivi-dev-roadmap-node-modules-docusaurus-theme-search-algolia-src-theme-search-page-index-js-2-eb-70f"
   },
-  "/docs-76c": {
+  "/docs-4d9": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -110,9 +110,9 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-connaissances-de-base-bases-api-introduction-3-d-2-7ba"
   },
-  "/docs/Culture-generale-en-informatique/bases-d-internet/introduction-a6b": {
+  "/docs/Culture-generale-en-informatique/base-de-linformatique-2ab": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-culture-generale-en-informatique-bases-d-internet-introductionfc-0-b66"
+    "content": "content---docs-culture-generale-en-informatique-base-de-linformatiquec-77-8a8"
   },
   "/docs/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet-92b": {
     "component": "component---theme-doc-item-178-a40",
@@ -126,6 +126,10 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-culture-generale-en-informatique-books-71-c-371"
   },
+  "/docs/Culture-generale-en-informatique/docus/nom-de-code-linux-02c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-culture-generale-en-informatique-docus-nom-de-code-linux-9-e-0-242"
+  },
   "/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet-dea": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-culture-generale-en-informatique-docus-une-contre-histoire-de-linternet-6-de-87d"
@@ -133,10 +137,6 @@
   "/docs/Culture-generale-en-informatique/histoire-de-l-informatique-86d": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-culture-generale-en-informatique-histoire-de-l-informatique-23-f-f48"
-  },
-  "/docs/Culture-generale-en-informatique/introduction-33f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-culture-generale-en-informatique-introduction-82-a-e12"
   },
   "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/client-serveur-b16": {
     "component": "component---theme-doc-item-178-a40",

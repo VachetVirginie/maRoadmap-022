@@ -21,11 +21,6 @@
         "items": [
           {
             "type": "link",
-            "label": "Introduction",
-            "href": "/docs/Culture-generale-en-informatique/introduction"
-          },
-          {
-            "type": "link",
             "label": "Histoire de l'informatique",
             "href": "/docs/Culture-generale-en-informatique/histoire-de-l-informatique"
           },
@@ -33,6 +28,11 @@
             "type": "link",
             "label": "Un ordinateur ?",
             "href": "/docs/Culture-generale-en-informatique/un-ordinateur"
+          },
+          {
+            "type": "link",
+            "label": "Bases de l'informatique",
+            "href": "/docs/Culture-generale-en-informatique/base-de-linformatique"
           },
           {
             "type": "category",
@@ -70,11 +70,6 @@
             "items": [
               {
                 "type": "link",
-                "label": "Introduction",
-                "href": "/docs/Culture-generale-en-informatique/bases-d-internet/introduction"
-              },
-              {
-                "type": "link",
                 "label": "Les réseaux d'internet",
                 "href": "/docs/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet"
               },
@@ -95,6 +90,11 @@
                 "type": "link",
                 "label": "Une contre histoire de l'Internet - ARTe",
                 "href": "/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet"
+              },
+              {
+                "type": "link",
+                "label": "Nom de code Linux",
+                "href": "/docs/Culture-generale-en-informatique/docus/nom-de-code-linux"
               }
             ]
           },
@@ -197,34 +197,6 @@
       },
       {
         "type": "category",
-        "label": "API Platform",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Introduction",
-            "href": "/docs/Api-Platform/introduction"
-          },
-          {
-            "type": "link",
-            "label": "Premiers pas",
-            "href": "/docs/Api-Platform/premiers-pas"
-          },
-          {
-            "type": "link",
-            "label": "La sérialisation",
-            "href": "/docs/Api-Platform/serialisation"
-          },
-          {
-            "type": "link",
-            "label": "La validation",
-            "href": "/docs/Api-Platform/validation"
-          }
-        ]
-      },
-      {
-        "type": "category",
         "label": "Symfony",
         "collapsible": true,
         "collapsed": true,
@@ -268,6 +240,34 @@
             "type": "link",
             "label": "Les services",
             "href": "/docs/symfony-5/services"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "API Platform",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/docs/Api-Platform/introduction"
+          },
+          {
+            "type": "link",
+            "label": "Premiers pas",
+            "href": "/docs/Api-Platform/premiers-pas"
+          },
+          {
+            "type": "link",
+            "label": "La sérialisation",
+            "href": "/docs/Api-Platform/serialisation"
+          },
+          {
+            "type": "link",
+            "label": "La validation",
+            "href": "/docs/Api-Platform/validation"
           }
         ]
       },

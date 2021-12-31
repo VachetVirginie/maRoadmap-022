@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Introduction",
-    "permalink": "/docs/Culture-generale-en-informatique/introduction"
+    "title": "Histoire de l'informatique",
+    "permalink": "/docs/Culture-generale-en-informatique/histoire-de-l-informatique"
   }
 }

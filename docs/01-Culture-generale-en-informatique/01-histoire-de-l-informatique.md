@@ -8,6 +8,9 @@ sidebar_position: 1
 >
 > -- <cite>Otto von Bismarck</cite>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dcN9QXxmRqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ##  Ressources
 
 * [Texte - Petite histoire de l’informatique](https://www.bm-lyon.fr/nos-blogs/fablab/l-idee-du-mois/article/petite-histoire-de-l-informatique)
