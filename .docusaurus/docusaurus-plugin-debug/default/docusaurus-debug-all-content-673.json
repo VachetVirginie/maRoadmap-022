@@ -846,6 +846,10 @@
               "previous": {
                 "title": "Débuter avec git",
                 "permalink": "/docs/outils/notions-git/debuter-avec-git"
+              },
+              "next": {
+                "title": "YouTube",
+                "permalink": "/docs/outils/veille/youTube"
               }
             },
             {
@@ -903,24 +907,49 @@
               }
             },
             {
+              "unversionedId": "outils/veille/youTube",
+              "id": "outils/veille/youTube",
+              "isDocsHomePage": false,
+              "title": "YouTube",
+              "description": "* AFUP PHP",
+              "source": "@site/docs/08-outils/02-veille/00-youTube.md",
+              "sourceDirName": "08-outils/02-veille",
+              "slug": "/outils/veille/youTube",
+              "permalink": "/docs/outils/veille/youTube",
+              "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/08-outils/02-veille/00-youTube.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_position": 0
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "GitHub / GitLab / Framagit est différent de Git",
+                "permalink": "/docs/outils/notions-git/github-et-cie-different-de-git"
+              }
+            },
+            {
               "unversionedId": "php/design-patterns",
               "id": "php/design-patterns",
               "isDocsHomePage": false,
               "title": "Design Patterns",
               "description": "Les design patterns racontés aux enfants",
-              "source": "@site/docs/03-php/01-design-patterns.md",
+              "source": "@site/docs/03-php/02-design-patterns.md",
               "sourceDirName": "03-php",
               "slug": "/php/design-patterns",
               "permalink": "/docs/php/design-patterns",
-              "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/03-php/01-design-patterns.md",
+              "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/03-php/02-design-patterns.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {},
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Introduction",
-                "permalink": "/docs/php/introduction"
+                "title": "La POO",
+                "permalink": "/docs/php/poo"
               },
               "next": {
                 "title": "L'histoire de Symfony",
@@ -940,14 +969,41 @@
               "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/03-php/00-introduction.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 0,
+              "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_position": 0
+                "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Les APIs REST",
                 "permalink": "/docs/Connaissances-de-base/bases-api/api-rest"
+              },
+              "next": {
+                "title": "La POO",
+                "permalink": "/docs/php/poo"
+              }
+            },
+            {
+              "unversionedId": "php/poo",
+              "id": "php/poo",
+              "isDocsHomePage": false,
+              "title": "La POO",
+              "description": "",
+              "source": "@site/docs/03-php/01-poo.md",
+              "sourceDirName": "03-php",
+              "slug": "/php/poo",
+              "permalink": "/docs/php/poo",
+              "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/03-php/01-poo.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/php/introduction"
               },
               "next": {
                 "title": "Design Patterns",
@@ -1313,6 +1369,10 @@
                   },
                   {
                     "type": "doc",
+                    "id": "php/poo"
+                  },
+                  {
+                    "type": "doc",
                     "id": "php/design-patterns"
                   }
                 ]
@@ -1468,6 +1528,18 @@
                       {
                         "type": "doc",
                         "id": "outils/notions-git/github-et-cie-different-de-git"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Veille techno",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "outils/veille/youTube"
                       }
                     ]
                   }

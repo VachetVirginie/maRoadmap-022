@@ -167,6 +167,11 @@
           },
           {
             "type": "link",
+            "label": "La POO",
+            "href": "/docs/php/poo"
+          },
+          {
+            "type": "link",
             "label": "Design Patterns",
             "href": "/docs/php/design-patterns"
           }
@@ -346,6 +351,19 @@
                 "type": "link",
                 "label": "GitHub / GitLab / Framagit est différent de Git",
                 "href": "/docs/outils/notions-git/github-et-cie-different-de-git"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "Veille techno",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "YouTube",
+                "href": "/docs/outils/veille/youTube"
               }
             ]
           }

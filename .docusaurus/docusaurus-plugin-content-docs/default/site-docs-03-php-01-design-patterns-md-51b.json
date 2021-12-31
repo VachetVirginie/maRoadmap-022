@@ -11,12 +11,14 @@
   "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/03-php/01-design-patterns.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
-  "frontMatter": {},
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Introduction",
-    "permalink": "/docs/php/introduction"
+    "title": "La POO",
+    "permalink": "/docs/php/poo"
   },
   "next": {
     "title": "L'histoire de Symfony",

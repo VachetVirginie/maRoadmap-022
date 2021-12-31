@@ -19,5 +19,9 @@
   "previous": {
     "title": "Débuter avec git",
     "permalink": "/docs/outils/notions-git/debuter-avec-git"
+  },
+  "next": {
+    "title": "YouTube",
+    "permalink": "/docs/outils/veille/youTube"
   }
 }

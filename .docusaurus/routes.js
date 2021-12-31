@@ -75,7 +75,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','32b'),
+    component: ComponentCreator('/docs','3d5'),
     routes: [
       {
         path: '/docs/Api-Platform/introduction',
@@ -276,14 +276,26 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/outils/veille/youTube',
+        component: ComponentCreator('/docs/outils/veille/youTube','d44'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/php/design-patterns',
-        component: ComponentCreator('/docs/php/design-patterns','c33'),
+        component: ComponentCreator('/docs/php/design-patterns','90f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
         path: '/docs/php/introduction',
         component: ComponentCreator('/docs/php/introduction','39e'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/php/poo',
+        component: ComponentCreator('/docs/php/poo','63b'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

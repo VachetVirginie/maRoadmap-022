@@ -17,3 +17,9 @@ sidebar_position: 1
 * [Texte - Les femmes et l’informatique : histoire d’une exclusion, enjeux de la réappropriation](https://www.ritimo.org/Les-femmes-et-l-informatique-histoire-d-une-exclusion-enjeux-de-la)
 
 * [Texte - Des premiers ordinateurs aux machines d'aujourd'hui](https://www.superprof.fr/blog/la-bible-des-informaticiens/)
+
+## Vulgarisation
+
+* [Chaine Yt - Simply Explained ](https://www.youtube.com/c/Savjee)
+* [Chaine Yt -  Flech & Computers ](https://www.youtube.com/c/FlechComputers)
+

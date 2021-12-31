@@ -7,7 +7,7 @@
   },
   "/__docusaurus/debug/content-c28": {
     "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---roadmap-dev-symfony-docusaurus-debug-content-246-167"
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
   "/__docusaurus/debug/globalData-3cf": {
     "component": "component---theme-debug-global-dataede-0fa"
@@ -23,10 +23,10 @@
   },
   "/blog-e19": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---roadmap-dev-symfony-blog-814-640",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---roadmap-dev-symfony-blog-50-b-de4"
+        "content": "content---blog-50-b-edd"
       }
     ],
     "metadata": "metadata---blogb-2-b-df1"
@@ -37,209 +37,217 @@
   },
   "/blog/les-copains-et-copines-ed8": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---roadmap-dev-symfony-blog-814-640",
-    "content": "content---roadmap-dev-symfony-blog-les-copains-et-copines-245-39c"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-les-copains-et-copines-245-32c"
   },
   "/blog/tags-e13": {
     "component": "component---theme-blog-tags-list-page-01-a-d0b",
-    "sidebar": "sidebar---roadmap-dev-symfony-blog-814-640",
+    "sidebar": "sidebar---blog-814-8ac",
     "tags": "tags---blog-tagsa-70-da2"
   },
   "/blog/tags/actualite-e09": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---roadmap-dev-symfony-blog-814-640",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---roadmap-dev-symfony-blog-50-b-de4"
+        "content": "content---blog-50-b-edd"
       }
     ],
     "metadata": "metadata---blog-tags-actualitefea-8b0"
   },
   "/markdown-page-be1": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---roadmap-dev-symfony-markdown-page-393-1dd"
+    "content": "content---markdown-page-393-028"
   },
   "/search-676": {
     "component": "component---users-vivi-dev-roadmap-node-modules-docusaurus-theme-search-algolia-src-theme-search-page-index-js-2-eb-70f"
   },
-  "/docs-32b": {
+  "/docs-3d5": {
     "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---roadmap-dev-symfony-docs-935-f5c"
+    "versionMetadata": "versionMetadata---docs-935-398"
   },
   "/docs/Api-Platform/introduction-b18": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-api-platform-introduction-324-d2b"
+    "content": "content---docs-api-platform-introduction-324-0f6"
   },
   "/docs/Api-Platform/premiers-pas-9d5": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-api-platform-premiers-pas-9-d-6-889"
+    "content": "content---docs-api-platform-premiers-pas-9-d-6-eea"
   },
   "/docs/Api-Platform/serialisation-3dd": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-api-platform-serialisationc-59-27c"
+    "content": "content---docs-api-platform-serialisationc-59-92e"
   },
   "/docs/Api-Platform/validation-9b3": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-api-platform-validationefa-6e2"
+    "content": "content---docs-api-platform-validationefa-544"
   },
   "/docs/bases-de-symfony/histoire-symfony-95e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-bases-de-symfony-histoire-symfony-04-e-3c9"
+    "content": "content---docs-bases-de-symfony-histoire-symfony-04-e-5cc"
   },
   "/docs/bases-de-symfony/paradigme-mvc-2e8": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-bases-de-symfony-paradigme-mvc-26-e-f5b"
+    "content": "content---docs-bases-de-symfony-paradigme-mvc-26-e-d2b"
   },
   "/docs/Connaissances-de-base/bases-algorithme/les-boucles-684": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-connaissances-de-base-bases-algorithme-les-boucles-478-52d"
+    "content": "content---docs-connaissances-de-base-bases-algorithme-les-boucles-478-c55"
   },
   "/docs/Connaissances-de-base/bases-algorithme/logique-booleenne-et-structures-conditionnelles-808": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-connaissances-de-base-bases-algorithme-logique-booleenne-et-structures-conditionnellesa-39-651"
+    "content": "content---docs-connaissances-de-base-bases-algorithme-logique-booleenne-et-structures-conditionnellesa-39-677"
   },
   "/docs/Connaissances-de-base/bases-algorithme/variables-operateurs-flux-entree-et-sortie-bdc": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-connaissances-de-base-bases-algorithme-variables-operateurs-flux-entree-et-sortie-663-651"
+    "content": "content---docs-connaissances-de-base-bases-algorithme-variables-operateurs-flux-entree-et-sortie-663-ef4"
   },
   "/docs/Connaissances-de-base/bases-api/api-rest-9a9": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-connaissances-de-base-bases-api-api-restec-4-751"
+    "content": "content---docs-connaissances-de-base-bases-api-api-restec-4-32a"
   },
   "/docs/Connaissances-de-base/bases-api/introduction-f5a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-connaissances-de-base-bases-api-introduction-3-d-2-100"
+    "content": "content---docs-connaissances-de-base-bases-api-introduction-3-d-2-7ba"
   },
   "/docs/Culture-generale-en-informatique/bases-d-internet/introduction-a6b": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-culture-generale-en-informatique-bases-d-internet-introductionfc-0-94d"
+    "content": "content---docs-culture-generale-en-informatique-bases-d-internet-introductionfc-0-b66"
   },
   "/docs/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet-92b": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-culture-generale-en-informatique-bases-d-internet-les-reseaux-d-internet-753-ad8"
+    "content": "content---docs-culture-generale-en-informatique-bases-d-internet-les-reseaux-d-internet-753-b2a"
   },
   "/docs/Culture-generale-en-informatique/bases-d-internet/un-serveur-web-d5e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-culture-generale-en-informatique-bases-d-internet-un-serveur-web-7-db-990"
+    "content": "content---docs-culture-generale-en-informatique-bases-d-internet-un-serveur-web-7-db-9cb"
   },
   "/docs/Culture-generale-en-informatique/books-ac4": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-culture-generale-en-informatique-books-71-c-03c"
+    "content": "content---docs-culture-generale-en-informatique-books-71-c-371"
   },
   "/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet-dea": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-culture-generale-en-informatique-docus-une-contre-histoire-de-linternet-6-de-58a"
+    "content": "content---docs-culture-generale-en-informatique-docus-une-contre-histoire-de-linternet-6-de-87d"
   },
   "/docs/Culture-generale-en-informatique/histoire-de-l-informatique-86d": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-culture-generale-en-informatique-histoire-de-l-informatique-23-f-260"
+    "content": "content---docs-culture-generale-en-informatique-histoire-de-l-informatique-23-f-f48"
   },
   "/docs/Culture-generale-en-informatique/introduction-33f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-culture-generale-en-informatique-introduction-82-a-0e1"
+    "content": "content---docs-culture-generale-en-informatique-introduction-82-a-e12"
   },
   "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/client-serveur-b16": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-culture-generale-en-informatique-les-bases-des-reseaux-client-serveur-463-c5e"
+    "content": "content---docs-culture-generale-en-informatique-les-bases-des-reseaux-client-serveur-463-fe5"
   },
   "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/dhcp-dns-125": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-culture-generale-en-informatique-les-bases-des-reseaux-dhcp-dns-52-e-594"
+    "content": "content---docs-culture-generale-en-informatique-les-bases-des-reseaux-dhcp-dns-52-e-bcf"
   },
   "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/les-bases-du-reseau-33b": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-culture-generale-en-informatique-les-bases-des-reseaux-les-bases-du-reseau-6-ec-ff5"
+    "content": "content---docs-culture-generale-en-informatique-les-bases-des-reseaux-les-bases-du-reseau-6-ec-06a"
   },
   "/docs/Culture-generale-en-informatique/Les-bases-des-reseaux/tcp-ip-05e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-culture-generale-en-informatique-les-bases-des-reseaux-tcp-ip-2-ba-748"
+    "content": "content---docs-culture-generale-en-informatique-les-bases-des-reseaux-tcp-ip-2-ba-d01"
   },
   "/docs/Culture-generale-en-informatique/un-ordinateur-3e4": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-culture-generale-en-informatique-un-ordinateur-03-c-2a0"
+    "content": "content---docs-culture-generale-en-informatique-un-ordinateur-03-c-e0f"
   },
   "/docs/intro-aed": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-intro-0-e-3-085"
+    "content": "content---docs-intro-0-e-3-be1"
   },
   "/docs/Notions-systeme/docker/docker-sous-symfony-57b": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-notions-systeme-docker-docker-sous-symfony-1-df-382"
+    "content": "content---docs-notions-systeme-docker-docker-sous-symfony-1-df-cbc"
   },
   "/docs/Notions-systeme/docker/le-concept-639": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-notions-systeme-docker-le-conceptd-79-aac"
+    "content": "content---docs-notions-systeme-docker-le-conceptd-79-c91"
   },
   "/docs/Notions-systeme/docker/passerelle-de-la-base-a-la-pratique-916": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-notions-systeme-docker-passerelle-de-la-base-a-la-pratiquebbf-09e"
+    "content": "content---docs-notions-systeme-docker-passerelle-de-la-base-a-la-pratiquebbf-0a1"
   },
   "/docs/Notions-systeme/linux/introduction-4d3": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-notions-systeme-linux-introduction-200-311"
+    "content": "content---docs-notions-systeme-linux-introduction-200-6e9"
   },
   "/docs/Notions-systeme/linux/les-commandes-de-base-f8c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-notions-systeme-linux-les-commandes-de-base-048-649"
+    "content": "content---docs-notions-systeme-linux-les-commandes-de-base-048-5b4"
   },
   "/docs/outils/notions-git/debuter-avec-git-bfe": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-outils-notions-git-debuter-avec-git-335-071"
+    "content": "content---docs-outils-notions-git-debuter-avec-git-335-dda"
   },
   "/docs/outils/notions-git/github-et-cie-different-de-git-388": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-outils-notions-git-github-et-cie-different-de-git-010-d2f"
+    "content": "content---docs-outils-notions-git-github-et-cie-different-de-git-010-ed0"
   },
   "/docs/outils/notions-git/introduction-622": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-outils-notions-git-introduction-8-f-8-49d"
+    "content": "content---docs-outils-notions-git-introduction-8-f-8-725"
   },
   "/docs/outils/notions-git/qu-est-ce-que-le-versionning-700": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-outils-notions-git-qu-est-ce-que-le-versionningaa-2-6c2"
+    "content": "content---docs-outils-notions-git-qu-est-ce-que-le-versionningaa-2-aec"
   },
-  "/docs/php/design-patterns-c33": {
+  "/docs/outils/veille/youTube-d44": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-php-design-patterns-51-b-f4f"
+    "content": "content---docs-outils-veille-you-tubee-9-f-df3"
+  },
+  "/docs/php/design-patterns-90f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-php-design-patterns-2-a-6-ad2"
   },
   "/docs/php/introduction-39e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-php-introduction-62-c-f6e"
+    "content": "content---docs-php-introduction-62-c-dc4"
+  },
+  "/docs/php/poo-63b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-php-poo-6-d-5-52c"
   },
   "/docs/symfony-5/controleurs-530": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-symfony-5-controleursdbd-23c"
+    "content": "content---docs-symfony-5-controleursdbd-295"
   },
   "/docs/symfony-5/formulaires-30a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-symfony-5-formulaires-42-a-898"
+    "content": "content---docs-symfony-5-formulaires-42-a-b9e"
   },
   "/docs/symfony-5/http_foundation-e20": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-symfony-5-http-foundationfe-8-9cf"
+    "content": "content---docs-symfony-5-http-foundationfe-8-5a6"
   },
   "/docs/symfony-5/introduction-843": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-symfony-5-introductionbb-7-c4b"
+    "content": "content---docs-symfony-5-introductionbb-7-01f"
   },
   "/docs/symfony-5/modeles-e27": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-symfony-5-modeles-679-d11"
+    "content": "content---docs-symfony-5-modeles-679-65b"
   },
   "/docs/symfony-5/routage-3ed": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-symfony-5-routageda-2-137"
+    "content": "content---docs-symfony-5-routageda-2-db0"
   },
   "/docs/symfony-5/services-d92": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-symfony-5-services-36-c-64b"
+    "content": "content---docs-symfony-5-services-36-c-a65"
   },
   "/docs/symfony-5/twig-1a0": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---roadmap-dev-symfony-docs-symfony-5-twig-99-f-246"
+    "content": "content---docs-symfony-5-twig-99-f-13d"
   },
   "/-deb": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---roadmap-dev-symfony-5-e-9-db6"
+    "config": "config---5-e-9-4f3"
   }
 }

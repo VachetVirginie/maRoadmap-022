@@ -1,5 +1,5 @@
 ---
-sidebar_position: 0
+sidebar_position: 1
 ---
 
 # Introduction
@@ -122,4 +122,3 @@ http://php.net
 * http://afup.org
 * http://phpfrance.com
 * http://fr.php.net
-
