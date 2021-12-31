@@ -1,0 +1,23 @@
+{
+  "unversionedId": "outils/veille/sites",
+  "id": "outils/veille/sites",
+  "isDocsHomePage": false,
+  "title": "Sites",
+  "description": "* Medium",
+  "source": "@site/docs/08-outils/02-veille/01-sites.md",
+  "sourceDirName": "08-outils/02-veille",
+  "slug": "/outils/veille/sites",
+  "permalink": "/docs/outils/veille/sites",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/08-outils/02-veille/01-sites.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "YouTube",
+    "permalink": "/docs/outils/veille/youTube"
+  }
+}
