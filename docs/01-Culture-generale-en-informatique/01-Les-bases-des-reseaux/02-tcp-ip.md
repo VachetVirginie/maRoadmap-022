@@ -18,8 +18,7 @@ sidebar_position: 2
 
 * [Texte - Cours d'introduction à TCP/IP](https://laissus.developpez.com/tutoriels/cours-introduction-tcp-ip/)
 
-* [Vidéo - Les 4 couches TCP/IP | payants](https://www.elephorm.com/formation/code/webmaster/les-fondamentaux-du-webmaster/les-4-couches-tcpip)
-
-* [Livre - Apprenez le fonctionnement des réseaux TCP/IP | payants](https://www.elephorm.com/formation/code/webmaster/les-fondamentaux-du-webmaster/les-4-couches-tcpip)
-
 * [Livre - Apprenez le fonctionnement des réseaux TCP/IP | Openclassrooms](https://openclassrooms.com/fr/courses/857447-apprenez-le-fonctionnement-des-reseaux-tcp-ip)
+
+* Livre - Architecture TCP/IP | kindle
+
