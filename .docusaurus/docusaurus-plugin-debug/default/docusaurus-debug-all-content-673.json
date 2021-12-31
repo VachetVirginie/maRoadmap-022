@@ -38,8 +38,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Les services",
-                "permalink": "/docs/symfony-5/services"
+                "title": "Le paradigme MVC",
+                "permalink": "/docs/bases-de-symfony/paradigme-mvc"
               },
               "next": {
                 "title": "Premiers pas",
@@ -124,7 +124,7 @@
               },
               "next": {
                 "title": "Introduction",
-                "permalink": "/docs/Notions-systeme/linux/introduction"
+                "permalink": "/docs/symfony-5/introduction"
               }
             },
             {
@@ -178,7 +178,7 @@
               },
               "next": {
                 "title": "Introduction",
-                "permalink": "/docs/symfony-5/introduction"
+                "permalink": "/docs/Api-Platform/introduction"
               }
             },
             {
@@ -686,8 +686,8 @@
                 "permalink": "/docs/Notions-systeme/docker/passerelle-de-la-base-a-la-pratique"
               },
               "next": {
-                "title": "Introduction",
-                "permalink": "/docs/outils/notions-git/introduction"
+                "title": "Formation PHPStorm",
+                "permalink": "/docs/outils/phpStorm"
               }
             },
             {
@@ -763,8 +763,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "La validation",
-                "permalink": "/docs/Api-Platform/validation"
+                "title": "Les services",
+                "permalink": "/docs/symfony-5/services"
               },
               "next": {
                 "title": "Les commandes de base",
@@ -871,8 +871,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Utilisation de docker avec Symfony",
-                "permalink": "/docs/Notions-systeme/docker/docker-sous-symfony"
+                "title": "Formation PHPStorm",
+                "permalink": "/docs/outils/phpStorm"
               },
               "next": {
                 "title": "Qu'est ce que le versionning",
@@ -904,6 +904,33 @@
               "next": {
                 "title": "Débuter avec git",
                 "permalink": "/docs/outils/notions-git/debuter-avec-git"
+              }
+            },
+            {
+              "unversionedId": "outils/phpStorm",
+              "id": "outils/phpStorm",
+              "isDocsHomePage": false,
+              "title": "Formation PHPStorm",
+              "description": "PHPStorm (1/13) Pk utiliser PHPStorm ?\")",
+              "source": "@site/docs/08-outils/phpStorm.md",
+              "sourceDirName": "08-outils",
+              "slug": "/outils/phpStorm",
+              "permalink": "/docs/outils/phpStorm",
+              "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/08-outils/phpStorm.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_position": 0
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Utilisation de docker avec Symfony",
+                "permalink": "/docs/Notions-systeme/docker/docker-sous-symfony"
+              },
+              "next": {
+                "title": "Introduction",
+                "permalink": "/docs/outils/notions-git/introduction"
               }
             },
             {
@@ -1137,8 +1164,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Le paradigme MVC",
-                "permalink": "/docs/bases-de-symfony/paradigme-mvc"
+                "title": "La validation",
+                "permalink": "/docs/Api-Platform/validation"
               },
               "next": {
                 "title": "HTTP foundation",
@@ -1223,7 +1250,7 @@
               },
               "next": {
                 "title": "Introduction",
-                "permalink": "/docs/Api-Platform/introduction"
+                "permalink": "/docs/Notions-systeme/linux/introduction"
               }
             },
             {
@@ -1422,6 +1449,30 @@
               },
               {
                 "type": "category",
+                "label": "API Platform",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Api-Platform/introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Api-Platform/premiers-pas"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Api-Platform/serialisation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Api-Platform/validation"
+                  }
+                ]
+              },
+              {
+                "type": "category",
                 "label": "Symfony",
                 "collapsible": true,
                 "collapsed": true,
@@ -1457,30 +1508,6 @@
                   {
                     "type": "doc",
                     "id": "symfony-5/services"
-                  }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "API Platform",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Api-Platform/introduction"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Api-Platform/premiers-pas"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Api-Platform/serialisation"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Api-Platform/validation"
                   }
                 ]
               },
@@ -1534,6 +1561,10 @@
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
+                  {
+                    "type": "doc",
+                    "id": "outils/phpStorm"
+                  },
                   {
                     "type": "category",
                     "label": "Les notions a avoir avec Git",

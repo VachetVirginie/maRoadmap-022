@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Utilisation de docker avec Symfony",
-    "permalink": "/docs/Notions-systeme/docker/docker-sous-symfony"
+    "title": "Formation PHPStorm",
+    "permalink": "/docs/outils/phpStorm"
   },
   "next": {
     "title": "Qu'est ce que le versionning",
