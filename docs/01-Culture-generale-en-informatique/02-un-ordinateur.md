@@ -8,7 +8,11 @@ Au cœur de notre utilisation de l'informatique, il trône sur nos bureaux, il e
 
 En comprendre, succinctement et en synthèse, le mode de fonctionnement reste des connaissances très utiles 😀
 
+### [Ordinateur tout un programme - C'est pas sorcier](https://youtu.be/c96KP5jZVYk "Ordinateur tout un programme - C'est pas sorcier")
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c96KP5jZVYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### [Comment fonctionne un ordinateur?](https://youtu.be/85XUJXHbjBo "Comment fonctionne un ordinateur?")
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/85XUJXHbjBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

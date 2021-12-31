@@ -3,7 +3,7 @@
   "id": "Culture-generale-en-informatique/books",
   "isDocsHomePage": false,
   "title": "Livres à lire ou relire cette année",
-  "description": "1- Fabien Potencier - En route pour Symfony 5.",
+  "description": "Fabien Potencier - En route pour Symfony 5.",
   "source": "@site/docs/01-Culture-generale-en-informatique/00-books.md",
   "sourceDirName": "01-Culture-generale-en-informatique",
   "slug": "/Culture-generale-en-informatique/books",

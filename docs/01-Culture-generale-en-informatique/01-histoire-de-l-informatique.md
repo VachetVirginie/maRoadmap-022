@@ -8,6 +8,9 @@ sidebar_position: 1
 >
 > -- <cite>Otto von Bismarck</cite>
 
+
+### [Une brève histoire de l'informatique, de 1945 à nos jours](https://https://youtu.be/dcN9QXxmRqk "Une brève histoire de l'informatique, de 1945 à nos jours")
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dcN9QXxmRqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -21,7 +24,7 @@ sidebar_position: 1
 
 * [Texte - Des premiers ordinateurs aux machines d'aujourd'hui](https://www.superprof.fr/blog/la-bible-des-informaticiens/)
 
-## Vulgarisation
+## Vulgarisation de concepts
 
 * [Chaine Yt - Simply Explained ](https://www.youtube.com/c/Savjee)
 * [Chaine Yt -  Flech & Computers ](https://www.youtube.com/c/FlechComputers)

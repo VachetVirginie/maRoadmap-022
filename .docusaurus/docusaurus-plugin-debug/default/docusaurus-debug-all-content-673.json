@@ -38,8 +38,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Le paradigme MVC",
-                "permalink": "/docs/bases-de-symfony/paradigme-mvc"
+                "title": "Les services",
+                "permalink": "/docs/symfony-5/services"
               },
               "next": {
                 "title": "Premiers pas",
@@ -124,7 +124,7 @@
               },
               "next": {
                 "title": "Introduction",
-                "permalink": "/docs/symfony-5/introduction"
+                "permalink": "/docs/Notions-systeme/linux/introduction"
               }
             },
             {
@@ -178,7 +178,7 @@
               },
               "next": {
                 "title": "Introduction",
-                "permalink": "/docs/Api-Platform/introduction"
+                "permalink": "/docs/symfony-5/introduction"
               }
             },
             {
@@ -402,7 +402,7 @@
               "id": "Culture-generale-en-informatique/books",
               "isDocsHomePage": false,
               "title": "Livres à lire ou relire cette année",
-              "description": "1- Fabien Potencier - En route pour Symfony 5.",
+              "description": "Fabien Potencier - En route pour Symfony 5.",
               "source": "@site/docs/01-Culture-generale-en-informatique/00-books.md",
               "sourceDirName": "01-Culture-generale-en-informatique",
               "slug": "/Culture-generale-en-informatique/books",
@@ -763,8 +763,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Les services",
-                "permalink": "/docs/symfony-5/services"
+                "title": "La validation",
+                "permalink": "/docs/Api-Platform/validation"
               },
               "next": {
                 "title": "Les commandes de base",
@@ -1164,8 +1164,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "La validation",
-                "permalink": "/docs/Api-Platform/validation"
+                "title": "Le paradigme MVC",
+                "permalink": "/docs/bases-de-symfony/paradigme-mvc"
               },
               "next": {
                 "title": "HTTP foundation",
@@ -1250,7 +1250,7 @@
               },
               "next": {
                 "title": "Introduction",
-                "permalink": "/docs/Notions-systeme/linux/introduction"
+                "permalink": "/docs/Api-Platform/introduction"
               }
             },
             {
@@ -1449,30 +1449,6 @@
               },
               {
                 "type": "category",
-                "label": "API Platform",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Api-Platform/introduction"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Api-Platform/premiers-pas"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Api-Platform/serialisation"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Api-Platform/validation"
-                  }
-                ]
-              },
-              {
-                "type": "category",
                 "label": "Symfony",
                 "collapsible": true,
                 "collapsed": true,
@@ -1508,6 +1484,30 @@
                   {
                     "type": "doc",
                     "id": "symfony-5/services"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "API Platform",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Api-Platform/introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Api-Platform/premiers-pas"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Api-Platform/serialisation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Api-Platform/validation"
                   }
                 ]
               },
