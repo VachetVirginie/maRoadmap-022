@@ -1,0 +1,27 @@
+{
+  "unversionedId": "php/poo",
+  "id": "php/poo",
+  "isDocsHomePage": false,
+  "title": "POO",
+  "description": "",
+  "source": "@site/docs/03-php/01-poo.md",
+  "sourceDirName": "03-php",
+  "slug": "/php/poo",
+  "permalink": "/docs/php/poo",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/03-php/01-poo.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/php/introduction"
+  },
+  "next": {
+    "title": "Design Patterns",
+    "permalink": "/docs/php/design-patterns"
+  }
+}

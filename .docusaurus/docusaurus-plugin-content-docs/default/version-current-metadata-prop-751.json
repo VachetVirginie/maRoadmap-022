@@ -167,7 +167,7 @@
           },
           {
             "type": "link",
-            "label": "La POO",
+            "label": "POO",
             "href": "/docs/php/poo"
           },
           {
@@ -192,6 +192,34 @@
             "type": "link",
             "label": "Le paradigme MVC",
             "href": "/docs/bases-de-symfony/paradigme-mvc"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "API Platform",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/docs/Api-Platform/introduction"
+          },
+          {
+            "type": "link",
+            "label": "Premiers pas",
+            "href": "/docs/Api-Platform/premiers-pas"
+          },
+          {
+            "type": "link",
+            "label": "La sérialisation",
+            "href": "/docs/Api-Platform/serialisation"
+          },
+          {
+            "type": "link",
+            "label": "La validation",
+            "href": "/docs/Api-Platform/validation"
           }
         ]
       },
@@ -240,34 +268,6 @@
             "type": "link",
             "label": "Les services",
             "href": "/docs/symfony-5/services"
-          }
-        ]
-      },
-      {
-        "type": "category",
-        "label": "API Platform",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Introduction",
-            "href": "/docs/Api-Platform/introduction"
-          },
-          {
-            "type": "link",
-            "label": "Premiers pas",
-            "href": "/docs/Api-Platform/premiers-pas"
-          },
-          {
-            "type": "link",
-            "label": "La sérialisation",
-            "href": "/docs/Api-Platform/serialisation"
-          },
-          {
-            "type": "link",
-            "label": "La validation",
-            "href": "/docs/Api-Platform/validation"
           }
         ]
       },

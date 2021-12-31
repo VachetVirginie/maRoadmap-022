@@ -11,9 +11,9 @@
   "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/03-php/00-introduction.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 0,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 0
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -21,7 +21,7 @@
     "permalink": "/docs/Connaissances-de-base/bases-api/api-rest"
   },
   "next": {
-    "title": "La POO",
+    "title": "POO",
     "permalink": "/docs/php/poo"
   }
 }

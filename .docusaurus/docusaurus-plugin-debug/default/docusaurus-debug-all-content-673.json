@@ -38,8 +38,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Les services",
-                "permalink": "/docs/symfony-5/services"
+                "title": "Le paradigme MVC",
+                "permalink": "/docs/bases-de-symfony/paradigme-mvc"
               },
               "next": {
                 "title": "Premiers pas",
@@ -124,7 +124,7 @@
               },
               "next": {
                 "title": "Introduction",
-                "permalink": "/docs/Notions-systeme/linux/introduction"
+                "permalink": "/docs/symfony-5/introduction"
               }
             },
             {
@@ -178,7 +178,7 @@
               },
               "next": {
                 "title": "Introduction",
-                "permalink": "/docs/symfony-5/introduction"
+                "permalink": "/docs/Api-Platform/introduction"
               }
             },
             {
@@ -763,8 +763,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "La validation",
-                "permalink": "/docs/Api-Platform/validation"
+                "title": "Les services",
+                "permalink": "/docs/symfony-5/services"
               },
               "next": {
                 "title": "Les commandes de base",
@@ -942,13 +942,13 @@
               "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/03-php/02-design-patterns.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 3,
+              "sidebarPosition": 2,
               "frontMatter": {
-                "sidebar_position": 3
+                "sidebar_position": 2
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "La POO",
+                "title": "POO",
                 "permalink": "/docs/php/poo"
               },
               "next": {
@@ -969,9 +969,9 @@
               "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/03-php/00-introduction.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 0,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 0
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -979,7 +979,7 @@
                 "permalink": "/docs/Connaissances-de-base/bases-api/api-rest"
               },
               "next": {
-                "title": "La POO",
+                "title": "POO",
                 "permalink": "/docs/php/poo"
               }
             },
@@ -987,7 +987,7 @@
               "unversionedId": "php/poo",
               "id": "php/poo",
               "isDocsHomePage": false,
-              "title": "La POO",
+              "title": "POO",
               "description": "",
               "source": "@site/docs/03-php/01-poo.md",
               "sourceDirName": "03-php",
@@ -996,9 +996,9 @@
               "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/03-php/01-poo.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 2,
+              "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_position": 2
+                "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -1110,8 +1110,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Le paradigme MVC",
-                "permalink": "/docs/bases-de-symfony/paradigme-mvc"
+                "title": "La validation",
+                "permalink": "/docs/Api-Platform/validation"
               },
               "next": {
                 "title": "HTTP foundation",
@@ -1196,7 +1196,7 @@
               },
               "next": {
                 "title": "Introduction",
-                "permalink": "/docs/Api-Platform/introduction"
+                "permalink": "/docs/Notions-systeme/linux/introduction"
               }
             },
             {
@@ -1395,6 +1395,30 @@
               },
               {
                 "type": "category",
+                "label": "API Platform",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Api-Platform/introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Api-Platform/premiers-pas"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Api-Platform/serialisation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Api-Platform/validation"
+                  }
+                ]
+              },
+              {
+                "type": "category",
                 "label": "Symfony",
                 "collapsible": true,
                 "collapsed": true,
@@ -1430,30 +1454,6 @@
                   {
                     "type": "doc",
                     "id": "symfony-5/services"
-                  }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "API Platform",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Api-Platform/introduction"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Api-Platform/premiers-pas"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Api-Platform/serialisation"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Api-Platform/validation"
                   }
                 ]
               },

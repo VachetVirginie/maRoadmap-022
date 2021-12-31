@@ -1,0 +1,27 @@
+{
+  "unversionedId": "php/design-patterns",
+  "id": "php/design-patterns",
+  "isDocsHomePage": false,
+  "title": "Design Patterns",
+  "description": "Les design patterns racontés aux enfants",
+  "source": "@site/docs/03-php/02-design-patterns.md",
+  "sourceDirName": "03-php",
+  "slug": "/php/design-patterns",
+  "permalink": "/docs/php/design-patterns",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/03-php/02-design-patterns.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "POO",
+    "permalink": "/docs/php/poo"
+  },
+  "next": {
+    "title": "L'histoire de Symfony",
+    "permalink": "/docs/bases-de-symfony/histoire-symfony"
+  }
+}

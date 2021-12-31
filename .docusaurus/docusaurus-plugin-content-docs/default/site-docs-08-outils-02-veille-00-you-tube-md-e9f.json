@@ -1,0 +1,23 @@
+{
+  "unversionedId": "outils/veille/youTube",
+  "id": "outils/veille/youTube",
+  "isDocsHomePage": false,
+  "title": "YouTube",
+  "description": "* AFUP PHP",
+  "source": "@site/docs/08-outils/02-veille/00-youTube.md",
+  "sourceDirName": "08-outils/02-veille",
+  "slug": "/outils/veille/youTube",
+  "permalink": "/docs/outils/veille/youTube",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/08-outils/02-veille/00-youTube.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GitHub / GitLab / Framagit est différent de Git",
+    "permalink": "/docs/outils/notions-git/github-et-cie-different-de-git"
+  }
+}
