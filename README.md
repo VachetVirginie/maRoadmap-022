@@ -3,7 +3,7 @@
 
 *Ce site web est construit avec [Docusaurus 2](https://docusaurus.io/).*
 
-*Ce site web est basé sur le projet de [Yoan Bernabeu ](https://github.com/VachetVirginie/).*
+*Ce site web est basé sur le projet de [Yoan Bernabeu ](https://github.com/yoanbernabeu/).*
 
 Lancer le projet en local
 -------------------------
