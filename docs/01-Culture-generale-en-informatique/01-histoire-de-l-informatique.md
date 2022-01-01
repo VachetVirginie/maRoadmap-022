@@ -4,10 +4,11 @@ sidebar_position: 1
 
 # Histoire de l'informatique
 
+[![Generic badge](https://img.shields.io/badge/Status-WIP-orange.svg)](https://shields.io/)
+
 > Celui qui ne sait pas d'où il vient ne peut savoir où il va car il ne sait pas où il est. En ce sens, le passé est la rampe de lancement vers l'avenir.
 >
 > -- <cite>Otto von Bismarck</cite>
-
 
 ### [Une brève histoire de l'informatique, de 1945 à nos jours](https://https://youtu.be/dcN9QXxmRqk "Une brève histoire de l'informatique, de 1945 à nos jours")
 

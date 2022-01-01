@@ -483,7 +483,7 @@
               "id": "Culture-generale-en-informatique/histoire-de-l-informatique",
               "isDocsHomePage": false,
               "title": "Histoire de l'informatique",
-              "description": "Celui qui ne sait pas d'où il vient ne peut savoir où il va car il ne sait pas où il est. En ce sens, le passé est la rampe de lancement vers l'avenir.",
+              "description": "Generic badge",
               "source": "@site/docs/01-Culture-generale-en-informatique/01-histoire-de-l-informatique.md",
               "sourceDirName": "01-Culture-generale-en-informatique",
               "slug": "/Culture-generale-en-informatique/histoire-de-l-informatique",

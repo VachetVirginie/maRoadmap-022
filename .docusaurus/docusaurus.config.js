@@ -51,7 +51,7 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "copyright": "Copyright © 2021 | Roadmap 2022 | Une Roadmap pour progresser en 2022 !",
+      "copyright": "Copyright © 2022 | Roadmap 2022 | Une Roadmap pour progresser en 2022 !",
       "links": []
     },
     "prism": {
