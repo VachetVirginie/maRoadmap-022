@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Culture-generale-en-informatique/bases-d-internet/navigateurs",
+  "id": "Culture-generale-en-informatique/bases-d-internet/navigateurs",
+  "isDocsHomePage": false,
+  "title": "Comment fonctionnent les navigateurs",
+  "description": "---------------",
+  "source": "@site/docs/01-Culture-generale-en-informatique/02-bases-d-internet/03-navigateurs.md",
+  "sourceDirName": "01-Culture-generale-en-informatique/02-bases-d-internet",
+  "slug": "/Culture-generale-en-informatique/bases-d-internet/navigateurs",
+  "permalink": "/docs/Culture-generale-en-informatique/bases-d-internet/navigateurs",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/01-Culture-generale-en-informatique/02-bases-d-internet/03-navigateurs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Un serveur web",
+    "permalink": "/docs/Culture-generale-en-informatique/bases-d-internet/un-serveur-web"
+  },
+  "next": {
+    "title": "Une contre histoire de l'Internet - ARTe",
+    "permalink": "/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet"
+  }
+}

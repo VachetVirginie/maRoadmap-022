@@ -1,0 +1,27 @@
+{
+  "unversionedId": "vuejs/into",
+  "id": "vuejs/into",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "---------------",
+  "source": "@site/docs/10-vuejs/01-into.md",
+  "sourceDirName": "10-vuejs",
+  "slug": "/vuejs/into",
+  "permalink": "/docs/vuejs/into",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/10-vuejs/01-into.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sites",
+    "permalink": "/docs/outils/veille/sites"
+  },
+  "next": {
+    "title": "Tailwind",
+    "permalink": "/docs/tailwind"
+  }
+}

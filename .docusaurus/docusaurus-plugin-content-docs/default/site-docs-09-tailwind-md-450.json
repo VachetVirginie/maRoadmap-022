@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tailwind",
+  "id": "tailwind",
+  "isDocsHomePage": false,
+  "title": "Tailwind",
+  "description": "---------------",
+  "source": "@site/docs/09-tailwind.md",
+  "sourceDirName": ".",
+  "slug": "/tailwind",
+  "permalink": "/docs/tailwind",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/09-tailwind.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Les bases",
+    "permalink": "/docs/vuejs/bases"
+  }
+}

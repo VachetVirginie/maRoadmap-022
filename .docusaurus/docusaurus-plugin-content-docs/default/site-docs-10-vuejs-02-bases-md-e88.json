@@ -1,0 +1,27 @@
+{
+  "unversionedId": "vuejs/bases",
+  "id": "vuejs/bases",
+  "isDocsHomePage": false,
+  "title": "Les bases",
+  "description": "---------------",
+  "source": "@site/docs/10-vuejs/02-bases.md",
+  "sourceDirName": "10-vuejs",
+  "slug": "/vuejs/bases",
+  "permalink": "/docs/vuejs/bases",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/10-vuejs/02-bases.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/vuejs/intro"
+  },
+  "next": {
+    "title": "Tailwind",
+    "permalink": "/docs/tailwind"
+  }
+}

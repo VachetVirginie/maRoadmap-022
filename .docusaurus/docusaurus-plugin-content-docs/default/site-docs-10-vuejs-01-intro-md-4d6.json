@@ -1,0 +1,27 @@
+{
+  "unversionedId": "vuejs/intro",
+  "id": "vuejs/intro",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "---------------",
+  "source": "@site/docs/10-vuejs/01-intro.md",
+  "sourceDirName": "10-vuejs",
+  "slug": "/vuejs/intro",
+  "permalink": "/docs/vuejs/intro",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/10-vuejs/01-intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sites",
+    "permalink": "/docs/outils/veille/sites"
+  },
+  "next": {
+    "title": "Les bases",
+    "permalink": "/docs/vuejs/bases"
+  }
+}
