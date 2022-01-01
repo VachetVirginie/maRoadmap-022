@@ -371,11 +371,38 @@
               }
             },
             {
+              "unversionedId": "Culture-generale-en-informatique/bases-d-internet/navigateurs",
+              "id": "Culture-generale-en-informatique/bases-d-internet/navigateurs",
+              "isDocsHomePage": false,
+              "title": "Comment fonctionnent les navigateurs",
+              "description": "---------------",
+              "source": "@site/docs/01-Culture-generale-en-informatique/02-bases-d-internet/03-navigateurs.md",
+              "sourceDirName": "01-Culture-generale-en-informatique/02-bases-d-internet",
+              "slug": "/Culture-generale-en-informatique/bases-d-internet/navigateurs",
+              "permalink": "/docs/Culture-generale-en-informatique/bases-d-internet/navigateurs",
+              "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/01-Culture-generale-en-informatique/02-bases-d-internet/03-navigateurs.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Un serveur web",
+                "permalink": "/docs/Culture-generale-en-informatique/bases-d-internet/un-serveur-web"
+              },
+              "next": {
+                "title": "Une contre histoire de l'Internet - ARTe",
+                "permalink": "/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet"
+              }
+            },
+            {
               "unversionedId": "Culture-generale-en-informatique/bases-d-internet/un-serveur-web",
               "id": "Culture-generale-en-informatique/bases-d-internet/un-serveur-web",
               "isDocsHomePage": false,
               "title": "Un serveur web",
-              "description": "Un serveur est un dispositif informatique qui distribue des services. C'est un ordinateur (oui oui, comme celui que vous avez chez vous !) qui possède une carte réseau et un processeur très puissants. En règle général, son système d'exploitation est très souvent une distribution Linux, comme Debian connu pour sa stabilité, mais il peut aussi être sous Windows ou également tourner sur du matériel Apple et dans ce cas, son système d'exploitation sera OSX Server.",
+              "description": "---------------",
               "source": "@site/docs/01-Culture-generale-en-informatique/02-bases-d-internet/02-un-serveur-web.md",
               "sourceDirName": "01-Culture-generale-en-informatique/02-bases-d-internet",
               "slug": "/Culture-generale-en-informatique/bases-d-internet/un-serveur-web",
@@ -393,8 +420,8 @@
                 "permalink": "/docs/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet"
               },
               "next": {
-                "title": "Une contre histoire de l'Internet - ARTe",
-                "permalink": "/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet"
+                "title": "Comment fonctionnent les navigateurs",
+                "permalink": "/docs/Culture-generale-en-informatique/bases-d-internet/navigateurs"
               }
             },
             {
@@ -470,8 +497,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Un serveur web",
-                "permalink": "/docs/Culture-generale-en-informatique/bases-d-internet/un-serveur-web"
+                "title": "Comment fonctionnent les navigateurs",
+                "permalink": "/docs/Culture-generale-en-informatique/bases-d-internet/navigateurs"
               },
               "next": {
                 "title": "Nom de code Linux",
@@ -483,7 +510,7 @@
               "id": "Culture-generale-en-informatique/histoire-de-l-informatique",
               "isDocsHomePage": false,
               "title": "Histoire de l'informatique",
-              "description": "Generic badge",
+              "description": "---------------",
               "source": "@site/docs/01-Culture-generale-en-informatique/01-histoire-de-l-informatique.md",
               "sourceDirName": "01-Culture-generale-en-informatique",
               "slug": "/Culture-generale-en-informatique/histoire-de-l-informatique",
@@ -954,6 +981,10 @@
               "previous": {
                 "title": "YouTube",
                 "permalink": "/docs/outils/veille/youTube"
+              },
+              "next": {
+                "title": "Introduction",
+                "permalink": "/docs/vuejs/intro"
               }
             },
             {
@@ -1279,6 +1310,83 @@
                 "title": "Les modèles",
                 "permalink": "/docs/symfony-5/modeles"
               }
+            },
+            {
+              "unversionedId": "tailwind",
+              "id": "tailwind",
+              "isDocsHomePage": false,
+              "title": "Tailwind",
+              "description": "---------------",
+              "source": "@site/docs/09-tailwind.md",
+              "sourceDirName": ".",
+              "slug": "/tailwind",
+              "permalink": "/docs/tailwind",
+              "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/09-tailwind.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Les bases",
+                "permalink": "/docs/vuejs/bases"
+              }
+            },
+            {
+              "unversionedId": "vuejs/bases",
+              "id": "vuejs/bases",
+              "isDocsHomePage": false,
+              "title": "Les bases",
+              "description": "---------------",
+              "source": "@site/docs/10-vuejs/02-bases.md",
+              "sourceDirName": "10-vuejs",
+              "slug": "/vuejs/bases",
+              "permalink": "/docs/vuejs/bases",
+              "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/10-vuejs/02-bases.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/vuejs/intro"
+              },
+              "next": {
+                "title": "Tailwind",
+                "permalink": "/docs/tailwind"
+              }
+            },
+            {
+              "unversionedId": "vuejs/intro",
+              "id": "vuejs/intro",
+              "isDocsHomePage": false,
+              "title": "Introduction",
+              "description": "---------------",
+              "source": "@site/docs/10-vuejs/01-intro.md",
+              "sourceDirName": "10-vuejs",
+              "slug": "/vuejs/intro",
+              "permalink": "/docs/vuejs/intro",
+              "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/10-vuejs/01-intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sites",
+                "permalink": "/docs/outils/veille/sites"
+              },
+              "next": {
+                "title": "Les bases",
+                "permalink": "/docs/vuejs/bases"
+              }
             }
           ],
           "sidebars": {
@@ -1342,6 +1450,10 @@
                       {
                         "type": "doc",
                         "id": "Culture-generale-en-informatique/bases-d-internet/un-serveur-web"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Culture-generale-en-informatique/bases-d-internet/navigateurs"
                       }
                     ]
                   },
@@ -1606,6 +1718,26 @@
                     ]
                   }
                 ]
+              },
+              {
+                "type": "category",
+                "label": "Vuejs",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "vuejs/intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "vuejs/bases"
+                  }
+                ]
+              },
+              {
+                "type": "doc",
+                "id": "tailwind"
               }
             ]
           }

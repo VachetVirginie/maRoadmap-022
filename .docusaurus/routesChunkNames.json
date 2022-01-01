@@ -62,7 +62,7 @@
   "/search-676": {
     "component": "component---users-vivi-dev-roadmap-node-modules-docusaurus-theme-search-algolia-src-theme-search-page-index-js-2-eb-70f"
   },
-  "/docs-e32": {
+  "/docs-267": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -117,6 +117,10 @@
   "/docs/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet-92b": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-culture-generale-en-informatique-bases-d-internet-les-reseaux-d-internet-753-b2a"
+  },
+  "/docs/Culture-generale-en-informatique/bases-d-internet/navigateurs-3fc": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-culture-generale-en-informatique-bases-d-internet-navigateurse-99-878"
   },
   "/docs/Culture-generale-en-informatique/bases-d-internet/un-serveur-web-d5e": {
     "component": "component---theme-doc-item-178-a40",
@@ -253,6 +257,18 @@
   "/docs/symfony-5/twig-1a0": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-symfony-5-twig-99-f-13d"
+  },
+  "/docs/tailwind-f01": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tailwind-450-9a1"
+  },
+  "/docs/vuejs/bases-89d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-vuejs-basese-88-57a"
+  },
+  "/docs/vuejs/intro-6e5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-vuejs-intro-4-d-6-a17"
   },
   "/-deb": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",

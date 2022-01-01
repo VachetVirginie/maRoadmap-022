@@ -76,6 +76,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Culture-generale-en-informatique/bases-d-internet/navigateurs",
+              "path": "/docs/Culture-generale-en-informatique/bases-d-internet/navigateurs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Culture-generale-en-informatique/bases-d-internet/un-serveur-web",
               "path": "/docs/Culture-generale-en-informatique/bases-d-internet/un-serveur-web",
               "sidebar": "tutorialSidebar"
@@ -243,6 +248,21 @@
             {
               "id": "symfony-5/twig",
               "path": "/docs/symfony-5/twig",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tailwind",
+              "path": "/docs/tailwind",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vuejs/bases",
+              "path": "/docs/vuejs/bases",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vuejs/intro",
+              "path": "/docs/vuejs/intro",
               "sidebar": "tutorialSidebar"
             }
           ]

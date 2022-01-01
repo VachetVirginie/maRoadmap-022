@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # Histoire de l'informatique
+---------------
 
 [![Generic badge](https://img.shields.io/badge/Status-WIP-orange.svg)](https://shields.io/)
 

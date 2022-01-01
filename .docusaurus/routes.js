@@ -75,7 +75,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','e32'),
+    component: ComponentCreator('/docs','267'),
     routes: [
       {
         path: '/docs/Api-Platform/introduction',
@@ -152,6 +152,12 @@ export default [
       {
         path: '/docs/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet',
         component: ComponentCreator('/docs/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet','92b'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Culture-generale-en-informatique/bases-d-internet/navigateurs',
+        component: ComponentCreator('/docs/Culture-generale-en-informatique/bases-d-internet/navigateurs','3fc'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -356,6 +362,24 @@ export default [
       {
         path: '/docs/symfony-5/twig',
         component: ComponentCreator('/docs/symfony-5/twig','1a0'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/tailwind',
+        component: ComponentCreator('/docs/tailwind','f01'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/vuejs/bases',
+        component: ComponentCreator('/docs/vuejs/bases','89d'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/vuejs/intro',
+        component: ComponentCreator('/docs/vuejs/intro','6e5'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

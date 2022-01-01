@@ -3,6 +3,7 @@ sidebar_position: 2
 ---
 
 # Un serveur web
+---------------
 
 Un serveur est un dispositif informatique qui distribue des services. C'est un ordinateur (oui oui, comme celui que vous avez chez vous !) qui possède une carte réseau et un processeur très puissants. En règle général, son système d'exploitation est très souvent une distribution Linux, comme Debian connu pour sa stabilité, mais il peut aussi être sous Windows ou également tourner sur du matériel Apple et dans ce cas, son système d'exploitation sera OSX Server.
 

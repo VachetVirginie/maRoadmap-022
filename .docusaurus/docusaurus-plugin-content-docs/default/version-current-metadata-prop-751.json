@@ -77,6 +77,11 @@
                 "type": "link",
                 "label": "Un serveur web",
                 "href": "/docs/Culture-generale-en-informatique/bases-d-internet/un-serveur-web"
+              },
+              {
+                "type": "link",
+                "label": "Comment fonctionnent les navigateurs",
+                "href": "/docs/Culture-generale-en-informatique/bases-d-internet/navigateurs"
               }
             ]
           },
@@ -378,6 +383,29 @@
             ]
           }
         ]
+      },
+      {
+        "type": "category",
+        "label": "Vuejs",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/docs/vuejs/intro"
+          },
+          {
+            "type": "link",
+            "label": "Les bases",
+            "href": "/docs/vuejs/bases"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Tailwind",
+        "href": "/docs/tailwind"
       }
     ]
   }

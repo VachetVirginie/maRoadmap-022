@@ -3,7 +3,7 @@
   "id": "Culture-generale-en-informatique/bases-d-internet/un-serveur-web",
   "isDocsHomePage": false,
   "title": "Un serveur web",
-  "description": "Un serveur est un dispositif informatique qui distribue des services. C'est un ordinateur (oui oui, comme celui que vous avez chez vous !) qui possède une carte réseau et un processeur très puissants. En règle général, son système d'exploitation est très souvent une distribution Linux, comme Debian connu pour sa stabilité, mais il peut aussi être sous Windows ou également tourner sur du matériel Apple et dans ce cas, son système d'exploitation sera OSX Server.",
+  "description": "---------------",
   "source": "@site/docs/01-Culture-generale-en-informatique/02-bases-d-internet/02-un-serveur-web.md",
   "sourceDirName": "01-Culture-generale-en-informatique/02-bases-d-internet",
   "slug": "/Culture-generale-en-informatique/bases-d-internet/un-serveur-web",
@@ -21,7 +21,7 @@
     "permalink": "/docs/Culture-generale-en-informatique/bases-d-internet/les-reseaux-d-internet"
   },
   "next": {
-    "title": "Une contre histoire de l'Internet - ARTe",
-    "permalink": "/docs/Culture-generale-en-informatique/docus/une-contre-histoire-de-linternet"
+    "title": "Comment fonctionnent les navigateurs",
+    "permalink": "/docs/Culture-generale-en-informatique/bases-d-internet/navigateurs"
   }
 }

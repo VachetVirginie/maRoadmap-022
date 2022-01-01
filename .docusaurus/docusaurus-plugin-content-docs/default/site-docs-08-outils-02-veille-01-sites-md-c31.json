@@ -19,5 +19,9 @@
   "previous": {
     "title": "YouTube",
     "permalink": "/docs/outils/veille/youTube"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/vuejs/intro"
   }
 }
