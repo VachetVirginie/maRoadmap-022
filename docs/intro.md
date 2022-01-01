@@ -22,6 +22,14 @@ Cette roadmap, **présentée sous la forme d'un mini-site documentaire** se veut
 
 Cette roadmap est une **succession de thématiques**, à suivre dans l'ordre ou non suivant l'humeur du jour 😜.
 
+## Suivi avancemennt: 
+
+#### Section commencee:
+[![Generic badge](https://img.shields.io/badge/Status-WIP-orange.svg)](https://shields.io/)
+
+#### Section finie:
+[![Generic badge](https://img.shields.io/badge/Status-Done-green.svg)](https://shields.io/)
+
 
 
 
