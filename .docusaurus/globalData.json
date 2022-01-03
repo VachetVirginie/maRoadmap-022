@@ -161,6 +161,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "outils/notions-git/cheat-sheet",
+              "path": "/docs/outils/notions-git/cheat-sheet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "outils/notions-git/debuter-avec-git",
               "path": "/docs/outils/notions-git/debuter-avec-git",
               "sidebar": "tutorialSidebar"

@@ -75,7 +75,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','267'),
+    component: ComponentCreator('/docs','d8a'),
     routes: [
       {
         path: '/docs/Api-Platform/introduction',
@@ -254,6 +254,12 @@ export default [
       {
         path: '/docs/Notions-systeme/linux/les-commandes-de-base',
         component: ComponentCreator('/docs/Notions-systeme/linux/les-commandes-de-base','f8c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/outils/notions-git/cheat-sheet',
+        component: ComponentCreator('/docs/outils/notions-git/cheat-sheet','de8'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

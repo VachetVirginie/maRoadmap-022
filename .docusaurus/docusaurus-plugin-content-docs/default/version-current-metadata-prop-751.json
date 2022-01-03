@@ -202,34 +202,6 @@
       },
       {
         "type": "category",
-        "label": "API Platform",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Introduction",
-            "href": "/docs/Api-Platform/introduction"
-          },
-          {
-            "type": "link",
-            "label": "Premiers pas",
-            "href": "/docs/Api-Platform/premiers-pas"
-          },
-          {
-            "type": "link",
-            "label": "La sérialisation",
-            "href": "/docs/Api-Platform/serialisation"
-          },
-          {
-            "type": "link",
-            "label": "La validation",
-            "href": "/docs/Api-Platform/validation"
-          }
-        ]
-      },
-      {
-        "type": "category",
         "label": "Symfony",
         "collapsible": true,
         "collapsed": true,
@@ -273,6 +245,34 @@
             "type": "link",
             "label": "Les services",
             "href": "/docs/symfony-5/services"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "API Platform",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/docs/Api-Platform/introduction"
+          },
+          {
+            "type": "link",
+            "label": "Premiers pas",
+            "href": "/docs/Api-Platform/premiers-pas"
+          },
+          {
+            "type": "link",
+            "label": "La sérialisation",
+            "href": "/docs/Api-Platform/serialisation"
+          },
+          {
+            "type": "link",
+            "label": "La validation",
+            "href": "/docs/Api-Platform/validation"
           }
         ]
       },
@@ -361,6 +361,11 @@
                 "type": "link",
                 "label": "GitHub / GitLab / Framagit est différent de Git",
                 "href": "/docs/outils/notions-git/github-et-cie-different-de-git"
+              },
+              {
+                "type": "link",
+                "label": "CheatSheet",
+                "href": "/docs/outils/notions-git/cheat-sheet"
               }
             ]
           },
