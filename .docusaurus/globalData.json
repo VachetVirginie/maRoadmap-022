@@ -196,6 +196,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "outils/veille/twitter",
+              "path": "/docs/outils/veille/twitter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "outils/veille/youTube",
               "path": "/docs/outils/veille/youTube",
               "sidebar": "tutorialSidebar"

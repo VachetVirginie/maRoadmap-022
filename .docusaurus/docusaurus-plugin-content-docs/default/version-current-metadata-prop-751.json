@@ -384,6 +384,11 @@
                 "type": "link",
                 "label": "Sites",
                 "href": "/docs/outils/veille/sites"
+              },
+              {
+                "type": "link",
+                "label": "Twitter",
+                "href": "/docs/outils/veille/twitter"
               }
             ]
           }

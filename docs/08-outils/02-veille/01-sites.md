@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # Sites
+
 * [Medium](https://medium.com/)
 * [Kévin Dunglas](https://dunglas.fr/)
 * [AFUP PHP](http://www.planete-php.fr/)

@@ -4,11 +4,6 @@ sidebar_position: 3
 
 # CheatSheet
 
-# GIT - LES LIGNES DE COMMANDES PRINCIPALES
-
-## configuration
-
-## RAPPEL
 
 ## l'aide en ligne de commande.
 

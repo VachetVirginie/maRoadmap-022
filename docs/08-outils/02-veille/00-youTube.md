@@ -3,6 +3,12 @@ sidebar_position: 0
 ---
 
 # YouTube
+
+## Videos vues:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLOCyvJ3FWCn9bPM92rgzjZf7u4_3hcy6z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Liens chaines suivies
 * [AFUP PHP](https://www.youtube.com/c/afupPHP)
 * [Les-Tilleuls.coop](https://www.youtube.com/c/Les-tilleulsCoop)
 * [Lior CHAMLA](https://www.youtube.com/c/LiorCHAMLA)
