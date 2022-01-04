@@ -1,0 +1,27 @@
+{
+  "unversionedId": "outils/veille/twitter",
+  "id": "outils/veille/twitter",
+  "isDocsHomePage": false,
+  "title": "Twitter",
+  "description": "github-readme-twitter",
+  "source": "@site/docs/08-outils/02-veille/03-twitter.md",
+  "sourceDirName": "08-outils/02-veille",
+  "slug": "/outils/veille/twitter",
+  "permalink": "/docs/outils/veille/twitter",
+  "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/08-outils/02-veille/03-twitter.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sites",
+    "permalink": "/docs/outils/veille/sites"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/vuejs/intro"
+  }
+}
