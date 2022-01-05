@@ -5,15 +5,15 @@ sidebar_position: 0
 # Formation PHPStorm
 
 
-### [PHPStorm (1/13) : Pourquoi utiliser PHPStorm ?](https://www.youtube.com/watch?v=qwV_Eh0r3_4&list=PLjwdMgw5TTLVVi_LxB1smRKA7EgFIF6Do&index=1 "PHPStorm (1/13) : Pk utiliser PHPStorm ?")
+### [PHPStorm (1/13) : Pourquoi utiliser PHPStorm ?](https://www.youtube.com/watch?v=qwV_Eh0r3_4&list=PLjwdMgw5TTLVVi_LxB1smRKA7EgFIF6Do&index=1 "PHPStorm (1/13) : Pk utiliser PHPStorm ?") [![Generic badge](https://img.shields.io/badge/Status-Done-green.svg)](https://shields.io/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qwV_Eh0r3_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### [PHPStorm (2/13) : Apparence](https://www.youtube.com/watch?v=5Rd2Mo4woAg&list=PLjwdMgw5TTLVVi_LxB1smRKA7EgFIF6Do&index=2 "PHPStorm (2/13) : Apparence")
+### [PHPStorm (2/13) : Apparence](https://www.youtube.com/watch?v=5Rd2Mo4woAg&list=PLjwdMgw5TTLVVi_LxB1smRKA7EgFIF6Do&index=2 "PHPStorm (2/13) : Apparence") [![Generic badge](https://img.shields.io/badge/Status-Done-green.svg)](https://shields.io/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5Rd2Mo4woAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### [PHPStorm (3/13) : Les raccourcis](https://www.youtube.com/watch?v=oWlBOYGeHWk&list=PLjwdMgw5TTLVVi_LxB1smRKA7EgFIF6Do&index=3 "PHPStorm (3/13) : Les raccourcis")
+### [PHPStorm (3/13) : Les raccourcis](https://www.youtube.com/watch?v=oWlBOYGeHWk&list=PLjwdMgw5TTLVVi_LxB1smRKA7EgFIF6Do&index=3 "PHPStorm (3/13) : Les raccourcis") [![Generic badge](https://img.shields.io/badge/Status-Done-green.svg)](https://shields.io/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oWlBOYGeHWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
