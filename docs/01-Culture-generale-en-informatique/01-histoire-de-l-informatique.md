@@ -11,7 +11,7 @@ sidebar_position: 1
 >
 > -- <cite>Otto von Bismarck</cite>
 
-### [Une brève histoire de l'informatique, de 1945 à nos jours](https://https://youtu.be/dcN9QXxmRqk "Une brève histoire de l'informatique, de 1945 à nos jours")
+### [Une brève histoire de l'informatique, de 1945 à nos jours](https://https://youtu.be/dcN9QXxmRqk "Une brève histoire de l'informatique, de 1945 à nos jours") [![Generic badge](https://img.shields.io/badge/Status-Done-green.svg)](https://shields.io/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dcN9QXxmRqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -20,7 +20,7 @@ sidebar_position: 1
 
 * [Texte - Petite histoire de l’informatique](https://www.bm-lyon.fr/nos-blogs/fablab/l-idee-du-mois/article/petite-histoire-de-l-informatique)
 
-*  [Vidéo - Une brève histoire de l'informatique, de 1945 à nos jours](https://youtu.be/dcN9QXxmRqk)
+*  [Vidéo - Une brève histoire de l'informatique, de 1945 à nos jours](https://youtu.be/dcN9QXxmRqk) [![Generic badge](https://img.shields.io/badge/Status-Done-green.svg)](https://shields.io/)
 
 * [Texte - Les femmes et l’informatique : histoire d’une exclusion, enjeux de la réappropriation](https://www.ritimo.org/Les-femmes-et-l-informatique-histoire-d-une-exclusion-enjeux-de-la)
 
