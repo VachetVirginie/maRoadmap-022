@@ -17,12 +17,12 @@ sidebar_position: 0
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oWlBOYGeHWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### [PHPStorm (4/13) : Création de fichiers](https://www.youtube.com/watch?v=_ZGwtUViqpc&list=PLjwdMgw5TTLVVi_LxB1smRKA7EgFIF6Do&index=4 "PHPStorm (4/13) : Création de fichiers")
+### [PHPStorm (4/13) : Création de fichiers](https://www.youtube.com/watch?v=_ZGwtUViqpc&list=PLjwdMgw5TTLVVi_LxB1smRKA7EgFIF6Do&index=4 "PHPStorm (4/13) : Création de fichiers") [![Generic badge](https://img.shields.io/badge/Status-Done-green.svg)](https://shields.io/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_ZGwtUViqpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### [PHPStorm (5/13) : Live Templates](https://www.youtube.com/watch?v=0IfmJp1lD84&list=PLjwdMgw5TTLVVi_LxB1smRKA7EgFIF6Do&index=5 "PHPStorm (5/13) : Live Templates")
+### [PHPStorm (5/13) : Live Templates](https://www.youtube.com/watch?v=0IfmJp1lD84&list=PLjwdMgw5TTLVVi_LxB1smRKA7EgFIF6Do&index=5 "PHPStorm (5/13) : Live Templates") [![Generic badge](https://img.shields.io/badge/Status-Done-green.svg)](https://shields.io/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0IfmJp1lD84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
