@@ -161,6 +161,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Obs-webSocket.md/Doc",
+              "path": "/docs/Obs-webSocket.md/Doc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obs-webSocket.md/intro",
+              "path": "/docs/Obs-webSocket.md/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "outils/notions-git/cheat-sheet",
               "path": "/docs/outils/notions-git/cheat-sheet",
               "sidebar": "tutorialSidebar"

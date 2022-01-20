@@ -75,7 +75,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','661'),
+    component: ComponentCreator('/docs','cff'),
     routes: [
       {
         path: '/docs/Api-Platform/introduction',
@@ -254,6 +254,18 @@ export default [
       {
         path: '/docs/Notions-systeme/linux/les-commandes-de-base',
         component: ComponentCreator('/docs/Notions-systeme/linux/les-commandes-de-base','f8c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Obs-webSocket.md/Doc',
+        component: ComponentCreator('/docs/Obs-webSocket.md/Doc','6ad'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Obs-webSocket.md/intro',
+        component: ComponentCreator('/docs/Obs-webSocket.md/intro','f0e'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

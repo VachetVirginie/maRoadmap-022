@@ -19,5 +19,9 @@
   "previous": {
     "title": "Les bases",
     "permalink": "/docs/vuejs/bases"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/Obs-webSocket.md/intro"
   }
 }

@@ -826,6 +826,56 @@
               }
             },
             {
+              "unversionedId": "Obs-webSocket.md/Doc",
+              "id": "Obs-webSocket.md/Doc",
+              "isDocsHomePage": false,
+              "title": "Doc",
+              "description": "---------------",
+              "source": "@site/docs/11-Obs-webSocket.md/02-Doc.md",
+              "sourceDirName": "11-Obs-webSocket.md",
+              "slug": "/Obs-webSocket.md/Doc",
+              "permalink": "/docs/Obs-webSocket.md/Doc",
+              "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/11-Obs-webSocket.md/02-Doc.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/Obs-webSocket.md/intro"
+              }
+            },
+            {
+              "unversionedId": "Obs-webSocket.md/intro",
+              "id": "Obs-webSocket.md/intro",
+              "isDocsHomePage": false,
+              "title": "Introduction",
+              "description": "---------------",
+              "source": "@site/docs/11-Obs-webSocket.md/01-intro.md",
+              "sourceDirName": "11-Obs-webSocket.md",
+              "slug": "/Obs-webSocket.md/intro",
+              "permalink": "/docs/Obs-webSocket.md/intro",
+              "editUrl": "https://github.com/VachetVirginie/maRoadmap2022/edit/main/docs/11-Obs-webSocket.md/01-intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tailwind",
+                "permalink": "/docs/tailwind"
+              },
+              "next": {
+                "title": "Doc",
+                "permalink": "/docs/Obs-webSocket.md/Doc"
+              }
+            },
+            {
               "unversionedId": "outils/notions-git/cheat-sheet",
               "id": "outils/notions-git/cheat-sheet",
               "isDocsHomePage": false,
@@ -965,7 +1015,7 @@
               "id": "outils/phpStorm",
               "isDocsHomePage": false,
               "title": "Formation PHPStorm",
-              "description": "PHPStorm (1/13) Pk utiliser PHPStorm ?\")",
+              "description": "PHPStorm (1/13) Pk utiliser PHPStorm ?\") Generic badge",
               "source": "@site/docs/08-outils/phpStorm.md",
               "sourceDirName": "08-outils",
               "slug": "/outils/phpStorm",
@@ -1386,6 +1436,10 @@
               "previous": {
                 "title": "Les bases",
                 "permalink": "/docs/vuejs/bases"
+              },
+              "next": {
+                "title": "Introduction",
+                "permalink": "/docs/Obs-webSocket.md/intro"
               }
             },
             {
@@ -1800,6 +1854,22 @@
               {
                 "type": "doc",
                 "id": "tailwind"
+              },
+              {
+                "type": "category",
+                "label": "Obs WebSocket",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Obs-webSocket.md/intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Obs-webSocket.md/Doc"
+                  }
+                ]
               }
             ]
           }

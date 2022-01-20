@@ -416,6 +416,24 @@
         "type": "link",
         "label": "Tailwind",
         "href": "/docs/tailwind"
+      },
+      {
+        "type": "category",
+        "label": "Obs WebSocket",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/docs/Obs-webSocket.md/intro"
+          },
+          {
+            "type": "link",
+            "label": "Doc",
+            "href": "/docs/Obs-webSocket.md/Doc"
+          }
+        ]
       }
     ]
   }

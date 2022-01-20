@@ -62,7 +62,7 @@
   "/search-676": {
     "component": "component---users-vivi-dev-roadmap-node-modules-docusaurus-theme-search-algolia-src-theme-search-page-index-js-2-eb-70f"
   },
-  "/docs-661": {
+  "/docs-cff": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -185,6 +185,14 @@
   "/docs/Notions-systeme/linux/les-commandes-de-base-f8c": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-notions-systeme-linux-les-commandes-de-base-048-5b4"
+  },
+  "/docs/Obs-webSocket.md/Doc-6ad": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-obs-web-socket-md-doc-5-ce-2e5"
+  },
+  "/docs/Obs-webSocket.md/intro-f0e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-obs-web-socket-md-intro-377-a50"
   },
   "/docs/outils/notions-git/cheat-sheet-de8": {
     "component": "component---theme-doc-item-178-a40",
